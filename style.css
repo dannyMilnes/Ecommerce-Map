@@ -1,0 +1,140 @@
+* {
+    background: #0E1627
+}
+
+#Overlay, 
+#Overlay-2,
+#Overlay-3,
+#Overlay-4,
+#Overlay-5,
+#Overlay-6,
+#Overlay-7,
+#Overlay-8,
+#Overlay-9,
+#Overlay-10,
+#Overlay-11,
+#Overlay-12,
+#Overlay-13,
+#Overlay-14,
+#Overlay-15,
+#Overlay-16,
+#Overlay-17,
+#Overlay-18,
+#Overlay-19,
+#Overlay-20,
+#Overlay_Small,
+#Overlay_Small-2,
+#Overlay_Small-3,
+#Overlay_Small-4,
+#Overlay_Small-5,
+#Overlay_Small-6,
+#Overlay_Small-7 {
+    opacity: 0;
+}
+
+#Overlay:hover, 
+#Overlay-2:hover,
+#Overlay-3:hover,
+#Overlay-4:hover,
+#Overlay-5:hover,
+#Overlay-6:hover,
+#Overlay-7:hover,
+#Overlay-8:hover,
+#Overlay-9:hover,
+#Overlay-10:hover,
+#Overlay-11:hover,
+#Overlay-12:hover,
+#Overlay-13:hover,
+#Overlay-14:hover,
+#Overlay-15:hover,
+#Overlay-16:hover,
+#Overlay-17:hover,
+#Overlay-18:hover,
+#Overlay-19:hover,
+#Overlay-20:hover,
+#Overlay_Small:hover,
+#Overlay_Small-2:hover,
+#Overlay_Small-3:hover,
+#Overlay_Small-4:hover,
+#Overlay_Small-5:hover,
+#Overlay_Small-6:hover,
+#Overlay_Small-7:hover {
+    opacity: 1;
+    transition: 0.2s;
+}
+
+#Phase_1,
+#Phase_2,
+#Phase_3,
+#Phase_4,
+#Phase_5,
+#Phase_6,
+#Phase_7 {
+    stroke-dasharray: 800;
+    stroke-dashoffset: -800;
+}
+
+.phase1-is-active {
+    animation: map 0.8s 0.1s forwards;
+}
+
+.phase2-is-active {
+    animation: map 1s 0.2s forwards;
+}
+
+.phase3-is-active {
+    animation: map 1s 0.4s forwards;
+}
+
+.phase4-is-active {
+    animation: map 0.8s 0.5s forwards;
+}
+
+.phase5-is-active {
+    animation: map 0.8s 0.7s forwards;
+}
+
+.phase6-is-active {
+    animation: map 0.7s 0.9s forwards;
+}
+
+.phase7-is-active {
+    animation: map 0.7s 1s forwards;
+}
+
+@keyframes map {
+    50% {
+        stroke-dashoffset: 0;
+    }
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+
+text {
+    opacity: 0;
+    animation: text 1s 0.8s forwards;
+}
+
+@keyframes text {
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.logo-animation-active {
+    opacity: 0;
+    animation: logo 1s 1.1s forwards;
+}
+
+@keyframes logo {
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
