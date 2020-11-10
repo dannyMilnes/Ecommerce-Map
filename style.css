@@ -1,5 +1,15 @@
 * {
-    background: #0E1627
+    background: #0E1627;
+}
+
+.ecom-map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ecom-map {
+    height: 100vh;
 }
 
 #Overlay, 
