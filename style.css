@@ -89,7 +89,7 @@
 }
 
 .phase2-is-active {
-    animation: map 1s 0.2s forwards;
+    animation: map 1s 0.3s forwards;
 }
 
 .phase3-is-active {
@@ -147,4 +147,8 @@ path {
     100% {
         opacity: 1;
     }
+}
+
+.text-background {
+    pointer-events: bounding-box;
 }
