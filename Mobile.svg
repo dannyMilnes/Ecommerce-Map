@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 397 2566" style="enable-background:new 0 0 397 2566;" xml:space="preserve">
+<style type="text/css">
+	.st-0{fill:none;}
+	.st-1{fill:none;stroke:#505E7B;stroke-width:4;}
+	.st-2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st-3{fill-rule:evenodd;clip-rule:evenodd;fill:#32BCEF;}
+	.st-4{fill:#FFFFFF;}
+	.st-5{font-family:'Futura-Bold';}
+	.st-6{font-size:11px;}
+	.st-7{fill:none;stroke:#505E7B;stroke-width:4;stroke-linecap:round;}
+	.st-8{fill:#E44D26;}
+	.st-9{fill:#F16529;}
+	.st-10{fill:#EBEBEB;}
+	.st-11{fill:#264DE4;}
+	.st-12{fill:#2965F1;}
+	.st-13{fill:#DD0031;}
+	.st-14{fill:#C3002F;}
+	.st-15{fill:#53C1DE;}
+	.st-16{fill:#41B883;}
+	.st-17{fill:#34495E;}
+	.st-18{fill:#F7DF1E;}
+	.st-19{font-size:15px;}
+	.st-20{fill:#35B454;}
+	.st-21{fill:#253B80;}
+	.st-22{fill:#179BD7;}
+	.st-23{fill:#222D65;}
+	.st-24{fill:#97C73F;}
+	.st-25{fill:#FED10A;}
+	.st-26{fill:#24BBB1;}
+	.st-27{fill:#EF5098;}
+	.st-28{fill:#17A8E0;}
+	.st-29{fill:#93C83E;}
+	.st-30{fill:#0779A1;}
+	.st-31{fill:url(#Ellipse_63_1_);}
+	.st-32{fill:url(#Path_175_1_);}
+	.st-33{fill:#12191F;}
+	.st-34{fill:url(#Path_161_1_);}
+	.st-35{fill:url(#Path_162_1_);}
+	.st-36{fill:#93A2AD;}
+	.st-37{fill:#E8762D;}
+	.st-38{fill:#C72037;}
+	.st-39{fill:#5B879B;}
+	.st-40{fill:#5C6692;}
+	.st-41{fill:#EB9129;}
+	.st-42{fill-rule:evenodd;clip-rule:evenodd;fill:#1F457E;}
+	.st-43{fill:#7199A6;}
+	.st-44{clip-path:url(#SVGID_2_);}
+	.st-45{clip-path:url(#SVGID_4_);}
+	.st-46{clip-path:url(#SVGID_6_);}
+	.st-47{clip-path:url(#SVGID_8_);}
+	.st-48{clip-path:url(#SVGID_10_);}
+	.st-49{fill:#B01842;}
+	.st-50{fill:#0C0E0F;}
+	.st-51{fill:#FFFFFF;stroke:#7863EC;stroke-width:3;}
+	.st-52{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#7863EC;stroke-width:3;}
+	.st-53{fill-rule:evenodd;clip-rule:evenodd;fill:#E9E8FE;stroke:#7863EC;stroke-width:3;}
+	.st-54{fill:#8BC502;}
+	.st-55{fill:#689F63;}
+	.st-56{fill:#404137;}
+	.st-57{clip-path:url(#SVGID_12_);}
+	.st-58{fill:url(#Path_178_1_);}
+	.st-59{clip-path:url(#SVGID_14_);}
+	.st-60{fill:url(#Path_180_1_);}
+	.st-61{clip-path:url(#SVGID_16_);}
+	.st-62{fill:url(#Rectangle_146_1_);}
+	.st-63{fill:#00A1DF;}
+	.st-64{fill:#5FB832;}
+	.st-65{fill:#F27A23;}
+	.st-66{fill:#F6A82F;}
+	.st-67{fill:#22AD93;}
+	.st-68{fill:#D0D1D2;}
+	.st-69{fill:url(#Path_158_1_);}
+	.st-70{fill:url(#Path_160_1_);}
+</style>
+<g id="Circuit" transform="translate(-11.172 -58.626)">
+	<g id="DTB" transform="translate(-838.257 466.684) rotate(-45)">
+		<g id="Lines" transform="translate(843.351 423.351)">
+			<g id="Rectangle_1" transform="translate(13.419 13.419)">
+				
+					<rect x="-4" y="29.7" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 149.103 216.4583)" class="st-0" width="157.1" height="157.1"/>
+				
+					<rect x="-2" y="31.7" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 149.103 216.4583)" class="st-1" width="153.1" height="153.1"/>
+			</g>
+			<g id="Rectangle_2" transform="translate(44.993)">
+				
+					<rect x="-4" y="29.7" transform="matrix(-1 2.535181e-06 -2.535181e-06 -1 20.4378 75.9536)" class="st-0" width="28.4" height="16.6"/>
+				
+					<rect x="-2" y="31.7" transform="matrix(-1 2.535181e-06 -2.535181e-06 -1 20.4378 75.9536)" class="st-1" width="24.4" height="12.6"/>
+			</g>
+			<g id="Rectangle_9" transform="translate(44.993 167.344)">
+				
+					<rect x="-4" y="29.7" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 20.4378 75.9534)" class="st-0" width="28.4" height="16.6"/>
+				
+					<rect x="-2" y="31.7" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 20.4378 75.9534)" class="st-1" width="24.4" height="12.6"/>
+			</g>
+			<g id="Rectangle_3" transform="translate(110.51)">
+				
+					<rect x="-4" y="29.7" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 20.4378 75.9536)" class="st-0" width="28.4" height="16.6"/>
+				
+					<rect x="-2" y="31.7" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 20.4378 75.9536)" class="st-1" width="24.4" height="12.6"/>
+			</g>
+			<g id="Rectangle_8" transform="translate(110.51 167.344)">
+				
+					<rect x="-4" y="29.7" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 20.4378 75.9534)" class="st-0" width="28.4" height="16.6"/>
+				
+					<rect x="-2" y="31.7" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 20.4378 75.9534)" class="st-1" width="24.4" height="12.6"/>
+			</g>
+			<g id="Rectangle_4" transform="translate(0 138.927) rotate(-90)">
+				
+					<rect x="-23.8" y="-9.9" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -19.7787 -11.1809)" class="st-0" width="16.6" height="28.4"/>
+				
+					<rect x="-21.8" y="-7.9" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -19.7787 -11.1809)" class="st-1" width="12.6" height="24.4"/>
+			</g>
+			<g id="Rectangle_6" transform="translate(167.344 138.927) rotate(-90)">
+				
+					<rect x="-23.8" y="-9.9" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -19.7786 -11.1809)" class="st-0" width="16.6" height="28.4"/>
+				
+					<rect x="-21.8" y="-7.9" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -19.7786 -11.1809)" class="st-1" width="12.6" height="24.4"/>
+			</g>
+			<g id="Rectangle_5" transform="translate(0 73.41) rotate(-90)">
+				
+					<rect x="-23.8" y="-9.9" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -19.7787 -11.1809)" class="st-0" width="16.6" height="28.4"/>
+				
+					<rect x="-21.8" y="-7.9" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -19.7787 -11.1809)" class="st-1" width="12.6" height="24.4"/>
+			</g>
+			<g id="Rectangle_7" transform="translate(167.344 73.41) rotate(-90)">
+				
+					<rect x="-23.8" y="-9.9" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -19.7786 -11.1809)" class="st-0" width="16.6" height="28.4"/>
+				
+					<rect x="-21.8" y="-7.9" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 -19.7786 -11.1809)" class="st-1" width="12.6" height="24.4"/>
+			</g>
+		</g>
+		<g id="Logo" transform="translate(935.461 420.921) rotate(45)">
+			<g id="Footer" transform="translate(0 0)">
+				<g id="Group" transform="translate(0 0)">
+					<g id="_-Footer" transform="translate(0 0)">
+						<g id="_-Logo" transform="translate(0 0)">
+							<g id="Group-3" transform="translate(0 0)">
+								<path id="Fill-1" class="st-2" d="M85,29.6c-33.7,0-61,27.3-61,61s27.3,61,61,61s61-27.3,61-61l0,0
+									C146,57,118.7,29.7,85,29.6 M85,157.5c-36.9,0-66.8-29.9-66.8-66.9c0-36.9,29.9-66.8,66.9-66.8c36.9,0,66.8,29.9,66.8,66.9
+									C151.8,127.6,121.9,157.5,85,157.5"/>
+								<path id="Fill-1-2" class="st-3" d="M84.9,34.7c-31,0-56.2,25.2-56.2,56.2s25.2,56.2,56.2,56.2s56.2-25.2,56.2-56.2l0,0
+									C141.1,59.9,115.9,34.7,84.9,34.7 M84.9,152.5c-34,0-61.6-27.6-61.6-61.6c0-34,27.6-61.6,61.6-61.6
+									c34,0,61.6,27.6,61.6,61.6C146.4,124.9,118.9,152.4,84.9,152.5"/>
+							</g>
+							<path id="Fill-4" class="st-2" d="M48.3,106.6h24.9V80.5H48.3V106.6z M47.8,116.6c-5.1-0.1-9.2-4.3-9.1-9.5V80
+								c-0.1-5.1,4-9.4,9.1-9.5h34.8v46.1H47.8z"/>
+							<path id="Fill-6" class="st-2" d="M96.4,106.6h24.9v-8.4H96.4V106.6z M96.4,88.2h23.2v-7.7H96.4V88.2z M129.2,88.6
+								c0,1-0.1,2-0.4,2.9c1.3,1.7,2.1,3.8,2.1,6v9.5c0.1,5.1-4,9.4-9.1,9.5H87V70.5h33.2c5.1,0.1,9.1,4.4,9,9.5L129.2,88.6z"/>
+							<path id="Fill-7" class="st-2" d="M114.4,66.1c-8.3-6.5-18.5-10-29.1-9.9c-10.5-0.1-20.8,3.4-29.1,9.9H114.4z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="Front_End_Dev" transform="translate(0 -50)">
+		<g id="Content" transform="translate(0 1676)">
+			<g id="Rectangle_111" transform="translate(78 784)">
+				<rect x="18.2" y="23.8" class="st-0" width="11" height="11"/>
+				<rect x="20.2" y="25.8" class="st-1" width="7" height="7"/>
+			</g>
+			<g id="Rectangle_112" transform="translate(103 783)">
+				<rect x="18.2" y="23.8" class="st-0" width="11" height="11"/>
+				<rect x="20.2" y="25.8" class="st-1" width="7" height="7"/>
+			</g>
+			<text transform="matrix(1 0 0 1 89.481 797.8138)" class="st-4 st-5 st-6">Technologies</text>
+			<text transform="matrix(1 0 0 1 248.201 797.8138)" class="st-4 st-5 st-6">Frameworks</text>
+			<g id="Rectangle_108" transform="translate(57 753)">
+				<rect x="18.2" y="23.8" class="st-0" width="104" height="34"/>
+				<rect x="20.2" y="25.8" class="st-1" width="100" height="30"/>
+			</g>
+			<g id="Rectangle_109" transform="translate(215 752)">
+				<rect x="18.2" y="23.8" class="st-0" width="103" height="35"/>
+				<rect x="20.2" y="25.8" class="st-1" width="99" height="31"/>
+			</g>
+			<g id="Rectangle_110" transform="translate(99 745)">
+				<rect x="18.2" y="23.8" class="st-0" width="21" height="12"/>
+				<rect x="20.2" y="25.8" class="st-1" width="17" height="8"/>
+			</g>
+			<g id="Rectangle_113" transform="translate(129 783)">
+				<rect x="18.2" y="23.8" class="st-0" width="11" height="11"/>
+				<rect x="20.2" y="25.8" class="st-1" width="7" height="7"/>
+			</g>
+			<g id="Rectangle_114" transform="translate(235 785)">
+				<rect x="18.2" y="23.8" class="st-0" width="12" height="11"/>
+				<rect x="20.2" y="25.8" class="st-1" width="8" height="7"/>
+			</g>
+			<g id="Rectangle_115" transform="translate(260 785)">
+				<rect x="18.2" y="23.8" class="st-0" width="12" height="11"/>
+				<rect x="20.2" y="25.8" class="st-1" width="8" height="7"/>
+			</g>
+			<g id="Rectangle_116" transform="translate(254 743)">
+				<rect x="18.2" y="23.8" class="st-0" width="22" height="13"/>
+				<rect x="20.2" y="25.8" class="st-1" width="18" height="9"/>
+			</g>
+			<g id="Rectangle_117" transform="translate(286 785)">
+				<rect x="18.2" y="23.8" class="st-0" width="12" height="11"/>
+				<rect x="20.2" y="25.8" class="st-1" width="8" height="7"/>
+			</g>
+			<line id="Line_257" class="st-7" x1="258.8" y1="819.4" x2="258.8" y2="830.9"/>
+			<line id="Line_258" class="st-7" x1="284.7" y1="819.4" x2="284.7" y2="912.3"/>
+			<line id="Line_259" class="st-7" x1="310.6" y1="819.4" x2="310.6" y2="830.9"/>
+			<line id="Line_260" class="st-7" x1="325.7" y1="846" x2="310.6" y2="830.9"/>
+			<line id="Line_264" class="st-7" x1="243.7" y1="846" x2="258.8" y2="830.9"/>
+			<line id="Line_268" class="st-7" x1="101.6" y1="817.3" x2="101.6" y2="875.6"/>
+			<line id="Line_271" class="st-7" x1="126.7" y1="816.4" x2="126.7" y2="922.3"/>
+			<line id="Line_275" class="st-7" x1="152.4" y1="818.5" x2="152.4" y2="831.5"/>
+			<line id="Line_369" class="st-7" x1="173.7" y1="852.3" x2="152.4" y2="831.5"/>
+			<line id="Line_370" class="st-7" x1="154.7" y1="950.3" x2="126.7" y2="922.3"/>
+			<line id="Line_371" class="st-7" x1="78.7" y1="899.3" x2="101.6" y2="875.6"/>
+			<line id="Line_363" class="st-7" x1="225.7" y1="731.3" x2="242.7" y2="748.3"/>
+			<line id="Line_364" class="st-7" x1="264.7" y1="748.3" x2="242.7" y2="748.3"/>
+			<line id="Line_365" class="st-7" x1="264.7" y1="748.3" x2="283.7" y2="767.3"/>
+			<line id="Line_366" class="st-7" x1="185.7" y1="731.3" x2="168.7" y2="748.3"/>
+			<line id="Line_367" class="st-7" x1="147.7" y1="748.3" x2="168.7" y2="748.3"/>
+			<line id="Line_368" class="st-7" x1="147.7" y1="748.3" x2="126.7" y2="769.3"/>
+			<g id="Rectangle_156" transform="translate(173.689 610.23)">
+				<rect x="18.2" y="23.8" class="st-0" width="27.8" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="23.8" height="12.2"/>
+			</g>
+			<g id="Rectangle_157" transform="translate(115.068 623.343)">
+				<rect x="18.2" y="23.8" class="st-0" width="146.6" height="49.4"/>
+				<rect x="20.2" y="25.8" class="st-1" width="142.6" height="45.4"/>
+			</g>
+			<g id="Rectangle_158" transform="translate(159.522 669.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<g id="Rectangle_159" transform="translate(199.197 669.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<line id="Line_358" class="st-7" x1="225.7" y1="731.3" x2="225.7" y2="709.3"/>
+			<line id="Line_359" class="st-7" x1="185.7" y1="731.3" x2="185.7" y2="709.3"/>
+			<line id="Line_361" class="st-7" x1="206.2" y1="633.8" x2="217.2" y2="622.8"/>
+			<g id="HTML" transform="translate(134.892 893.333)">
+				<g id="Rectangle_123" transform="translate(0.108 -0.334)">
+					<rect x="18.2" y="23.8" class="st-0" width="58" height="58"/>
+					<rect x="20.2" y="25.8" class="st-1" width="54" height="54"/>
+				</g>
+				<g id="HTML_Logo" transform="translate(10.509 7.542)">
+					<path id="Path_142" class="st-8" d="M21.7,63l-3.5-39.2h38.4L53.1,63l-15.7,4.4"/>
+					<path id="Path_143" class="st-9" d="M37.4,64V27H53l-3,33.4"/>
+					<path id="Path_144" class="st-10" d="M25.3,31.8h12.1v4.8h-6.8l0.4,4.9h6.3v4.8H26.6 M26.8,48.7h4.8l0.3,3.8l5.4,1.4v5l-9.9-2.8
+						"/>
+					<path id="Path_145" class="st-4" d="M49.4,31.8h-12v4.8h11.6 M48.5,41.5H37.3v4.8h5.9l-0.6,6.2L37.3,54v5l9.8-2.7"/>
+				</g>
+			</g>
+			<g id="CSS" transform="translate(32.55 875.045)">
+				<g id="Rectangle_121" transform="translate(0.45 -0.045)">
+					<rect x="18.2" y="23.8" class="st-0" width="57" height="57"/>
+					<rect x="20.2" y="25.8" class="st-1" width="53" height="53"/>
+				</g>
+				<g id="CSS_Logo" transform="translate(9.316 6.953)">
+					<path id="polygon2989" class="st-11" d="M56.7,23.8l-3.5,39.3l-15.8,4.4l-15.7-4.4l-3.5-39.3H56.7z"/>
+					<path id="polygon2991" class="st-12" d="M50.2,60.6l3-33.6H37.4v37.1L50.2,60.6z"/>
+					<path id="polygon2993" class="st-10" d="M26.2,41.6l0.4,4.8h10.8v-4.8H26.2z"/>
+					<path id="polygon2995" class="st-10" d="M37.4,31.8H25.3l0.4,4.8h11.7L37.4,31.8z"/>
+					<path id="polygon2997" class="st-10" d="M37.4,59.2v-5l0,0L32,52.7l-0.3-3.8h-4.8l0.7,7.6L37.4,59.2L37.4,59.2z"/>
+					<path id="polygon3005" class="st-4" d="M43.4,46.4l-0.6,6.3l-5.4,1.5v5l9.9-2.7l0.1-0.8l1.1-12.7l0.1-1.3l0.9-9.8H37.4v4.8h6.8
+						l-0.4,4.9h-6.4v4.8L43.4,46.4z"/>
+				</g>
+			</g>
+			<g id="Angular" transform="translate(237.802 887.613)">
+				<g id="Rectangle_120" transform="translate(0.198 0.387)">
+					<rect x="18.2" y="23.8" class="st-0" width="57" height="56"/>
+					<rect x="20.2" y="25.8" class="st-1" width="53" height="52"/>
+				</g>
+				<g id="Angular_Logo" transform="translate(8.967 6.318)">
+					<path id="Path_135" class="st-13" d="M38.3,23.8L38.3,23.8L18.2,31l3.1,26.6l17.1,9.5l0,0l17.1-9.5L58.5,31L38.3,23.8z"/>
+					<path id="Path_136" class="st-14" d="M38.3,23.8v26.7l0,0v16.6l0,0l17.1-9.5L58.5,31L38.3,23.8z"/>
+					<path id="Path_137" class="st-4" d="M38.3,28.6L25.7,56.8h4.7l2.5-6.3h10.7l2.5,6.3h4.7L38.3,28.6z M42,46.6h-7.4l3.7-8.9
+						L42,46.6z"/>
+				</g>
+			</g>
+			<g id="React" transform="translate(278.045 821.857)">
+				<g id="Rectangle_118" transform="translate(-0.045 0.143)">
+					<rect x="18.2" y="23.8" class="st-0" width="57" height="57"/>
+					<rect x="20.2" y="25.8" class="st-1" width="53" height="53"/>
+				</g>
+				<g id="React_Logo" transform="translate(5.863 7.934)">
+					<path id="Path_131" class="st-4" d="M18.2,44.2c0,3.4,3.4,6.6,8.6,8.4c-1.1,5.3-0.2,9.6,2.7,11.3c3,1.7,7.4,0.5,11.6-3.1
+						c4.1,3.5,8.2,4.9,11.1,3.2c3-1.7,3.9-6.3,2.8-11.8c5.5-1.8,8.6-4.5,8.6-8c0-3.4-3.4-6.2-8.6-8c1.2-5.7,0.2-9.9-2.8-11.6
+						c-2.9-1.7-7.1-0.2-11.2,3.4c-4.3-3.8-8.5-5-11.5-3.3c-2.9,1.7-3.7,6-2.7,11.4C21.7,37.9,18.2,40.8,18.2,44.2z"/>
+					<path id="Path_132" class="st-15" d="M53.9,37.9c-0.4-0.1-0.9-0.3-1.3-0.4c0.1-0.3,0.1-0.6,0.2-0.9c1-4.8,0.3-8.6-1.9-9.9
+						c-2.1-1.2-5.5,0.1-9,3.1c-0.3,0.3-0.7,0.6-1,0.9c-0.2-0.2-0.4-0.4-0.7-0.6c-3.6-3.2-7.3-4.6-9.5-3.3c-2.1,1.2-2.7,4.8-1.8,9.4
+						c0.1,0.4,0.2,0.9,0.3,1.3c-0.5,0.1-1,0.3-1.5,0.5c-4.3,1.5-7,3.8-7,6.2c0,2.5,2.9,5,7.4,6.5c0.4,0.1,0.7,0.2,1.1,0.3
+						c-0.1,0.5-0.2,1-0.3,1.4c-0.8,4.4-0.2,8,1.9,9.2c2.2,1.2,5.8,0,9.3-3.1c0.3-0.2,0.6-0.5,0.8-0.8c0.4,0.4,0.7,0.7,1.1,1
+						c3.4,3,6.8,4.1,8.9,2.9c2.2-1.3,2.9-5,2-9.7c-0.1-0.4-0.1-0.7-0.2-1.1c0.3-0.1,0.5-0.2,0.8-0.2c4.6-1.5,7.6-4,7.6-6.5
+						C61.1,41.7,58.3,39.4,53.9,37.9L53.9,37.9z"/>
+					<path id="Path_133" class="st-4" d="M52.9,49.1c-0.2,0.1-0.4,0.1-0.7,0.2c-0.6-1.7-1.2-3.5-2-5.1c0.8-1.6,1.4-3.3,2-5
+						c0.4,0.1,0.8,0.2,1.2,0.4c3.7,1.3,6,3.2,6,4.6C59.4,45.7,56.9,47.8,52.9,49.1L52.9,49.1z M51.3,52.4c0.4,1.7,0.5,3.6,0.2,5.3
+						c-0.1,1-0.6,1.9-1.3,2.5c-1.3,0.7-4-0.2-6.9-2.7c-0.3-0.3-0.7-0.6-1-0.9c1.2-1.4,2.4-2.8,3.4-4.3c1.8-0.2,3.7-0.4,5.5-0.8
+						C51.1,51.7,51.2,52.1,51.3,52.4L51.3,52.4z M34.5,60.1c-0.9,0.4-1.9,0.5-2.8,0.1c-1.3-0.7-1.8-3.6-1.1-7.4
+						c0.1-0.4,0.2-0.9,0.3-1.3c1.8,0.4,3.6,0.6,5.4,0.8c1.1,1.5,2.2,2.9,3.5,4.3c-0.3,0.2-0.5,0.5-0.8,0.7
+						C37.7,58.5,36.2,59.4,34.5,60.1L34.5,60.1z M28.7,49.1c-1.7-0.5-3.3-1.4-4.7-2.5c-0.8-0.6-1.4-1.4-1.5-2.4
+						c0-1.5,2.2-3.3,5.8-4.6c0.4-0.2,0.9-0.3,1.4-0.4c0.5,1.7,1.2,3.4,2,5.1c-0.8,1.7-1.4,3.4-2,5.2C29.3,49.3,29,49.2,28.7,49.1
+						L28.7,49.1z M30.6,35.8c-0.8-3.9-0.3-6.8,1-7.5c1.3-0.8,4.3,0.3,7.5,3.1c0.2,0.2,0.4,0.4,0.6,0.6c-1.2,1.3-2.4,2.8-3.4,4.3
+						c-1.8,0.2-3.6,0.4-5.4,0.8C30.8,36.6,30.7,36.2,30.6,35.8L30.6,35.8z M48,40.1c-0.4-0.7-0.8-1.4-1.2-2c1.3,0.2,2.5,0.4,3.7,0.6
+						c-0.4,1.2-0.8,2.3-1.3,3.5C48.8,41.5,48.5,40.8,48,40.1L48,40.1z M40.9,33.2c0.8,0.9,1.6,1.9,2.4,2.9c-0.8,0-1.6-0.1-2.4-0.1
+						c-0.8,0-1.6,0-2.4,0.1C39.3,35,40.1,34.1,40.9,33.2z M33.8,40.1c-0.4,0.7-0.8,1.4-1.1,2.1c-0.5-1.2-0.9-2.4-1.3-3.5
+						c1.2-0.3,2.4-0.5,3.7-0.6C34.6,38.7,34.2,39.4,33.8,40.1L33.8,40.1z M35.1,50.4c-1.2-0.1-2.5-0.3-3.7-0.6
+						c0.4-1.2,0.8-2.3,1.3-3.6c0.4,0.7,0.7,1.4,1.1,2.1l0,0C34.2,49,34.6,49.7,35.1,50.4L35.1,50.4z M41,55.3
+						c-0.8-0.9-1.6-1.9-2.4-2.9c0.8,0,1.6,0,2.4,0c0.8,0,1.6,0,2.4-0.1C42.6,53.4,41.8,54.4,41,55.3L41,55.3z M49.2,46.2
+						c0.5,1.2,1,2.3,1.4,3.5c-1.2,0.3-2.5,0.5-3.8,0.6c0.4-0.7,0.8-1.4,1.2-2.1C48.5,47.6,48.8,46.9,49.2,46.2z M46.6,47.5
+						c-0.6,1.1-1.3,2.1-1.9,3.1c-1.2,0.1-2.4,0.1-3.7,0.1s-2.5,0-3.7-0.1c-0.7-1-1.3-2-2-3.1l0,0c-0.6-1.1-1.2-2.2-1.7-3.2
+						c0.5-1.1,1.1-2.2,1.7-3.3l0,0c0.6-1.1,1.3-2.1,2-3.1c1.2-0.1,2.4-0.1,3.7-0.1l0,0c1.2,0,2.5,0,3.7,0.1c0.7,1,1.3,2,1.9,3.1
+						s1.2,2.2,1.7,3.2C47.8,45.3,47.2,46.4,46.6,47.5L46.6,47.5z M50.1,28.2c1.4,0.8,1.9,3.9,1,8c-0.1,0.3-0.1,0.5-0.2,0.8
+						c-1.8-0.4-3.6-0.7-5.4-0.9c-1-1.5-2.2-2.9-3.4-4.3c0.3-0.3,0.6-0.6,0.9-0.9C46.1,28.5,48.8,27.5,50.1,28.2L50.1,28.2z"/>
+					<path id="Path_134" class="st-15" d="M40.9,40.6c2,0,3.6,1.6,3.6,3.6s-1.6,3.6-3.6,3.6c-2,0-3.6-1.6-3.6-3.6l0,0
+						C37.3,42.2,38.9,40.6,40.9,40.6"/>
+				</g>
+			</g>
+			<g id="Vue_JS" transform="translate(196.541 821.857)">
+				<g id="Rectangle_119" transform="translate(0.459 0.143)">
+					<rect x="18.2" y="23.8" class="st-0" width="56" height="57"/>
+					<rect x="20.2" y="25.8" class="st-1" width="52" height="53"/>
+				</g>
+				<g id="Vue_JS_Logo" transform="translate(6.771 9.733)">
+					<g id="Group_9" transform="translate(0 0)">
+						<path id="Path_138" class="st-16" d="M44.5,23.8l-4.9,8.6l-4.9-8.6H18.2l21.4,37.1L61,23.8H44.5z"/>
+					</g>
+					<g id="Group_10" transform="translate(8.558 0)">
+						<path id="Path_139" class="st-17" d="M36,23.8L31,32.4l-4.9-8.6h-7.9L31,46l12.8-22.2H36z"/>
+					</g>
+				</g>
+			</g>
+			<g id="JavaScript" transform="translate(127.154 828.415)">
+				<g id="Rectangle_122" transform="translate(-0.154 -0.415)">
+					<rect x="18.2" y="23.8" class="st-0" width="57" height="57"/>
+					<rect x="20.2" y="25.8" class="st-1" width="53" height="53"/>
+				</g>
+				<g id="JavaScript_Logo" transform="translate(9.82 9.82)">
+					<rect id="Rectangle_124" x="18.2" y="23.6" class="st-18" width="37" height="38"/>
+					<path id="Path_140" d="M42.8,52.7c0.7,1.3,2,2.2,3.5,2.2c1.5,0,2.4-0.7,2.4-1.8c0-1.2-1-1.7-2.6-2.4l-0.9-0.4
+						c-2.6-1.1-4.3-2.5-4.3-5.4c0-2.7,2.1-4.7,5.3-4.7c2.1-0.2,4.1,1,5.1,2.9l-2.8,1.8c-0.4-0.9-1.3-1.6-2.3-1.5
+						c-0.9-0.1-1.6,0.5-1.7,1.4c0,0,0,0.1,0,0.1c0,1.1,0.7,1.5,2.2,2.2l0.9,0.4c3.1,1.3,4.8,2.6,4.8,5.6c0,3.2-2.5,5-5.9,5
+						c-2.7,0.2-5.3-1.3-6.5-3.7L42.8,52.7z M30.1,53c0.6,1,1.1,1.8,2.3,1.8c1.2,0,1.9-0.5,1.9-2.3V40.4h3.6v12.3
+						c0,3.7-2.2,5.4-5.4,5.4c-2.3,0.1-4.4-1.2-5.4-3.3L30.1,53z"/>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 150.323 677.8658)" class="st-4 st-5 st-19">Front End Dev</text>
+		</g>
+		<g id="Lines-2" transform="translate(214 180)">
+			<line id="Line_347" class="st-7" x1="173.2" y1="1118.8" x2="173.2" y2="9.8"/>
+			<line id="Line_351" class="st-7" x1="138.2" y1="-25.2" x2="173.2" y2="9.8"/>
+			<line id="Line_352" class="st-7" x1="138.2" y1="-25.2" x2="32.2" y2="-25.2"/>
+			<g id="Ellipse_71" transform="translate(143.971 -16.929) rotate(135)">
+				<circle class="st-0" cx="11" cy="-22.7" r="7"/>
+				<circle class="st-1" cx="11" cy="-22.7" r="5"/>
+			</g>
+			<line id="Line_401" class="st-7" x1="132.2" y1="-13.2" x2="148.2" y2="2.8"/>
+			<line id="Line_402" class="st-7" x1="132.2" y1="-13.2" x2="102.2" y2="-13.2"/>
+			<line id="Line_403" class="st-7" x1="90.2" y1="-25.2" x2="102.2" y2="-13.2"/>
+			<line id="Line_425" class="st-7" x1="173.2" y1="1118.8" x2="165.2" y2="1126.8"/>
+			<line id="Line_426" class="st-7" x1="165.2" y1="2055.8" x2="165.2" y2="1126.8"/>
+			<line id="Line_470" class="st-7" x1="165.2" y1="2055.8" x2="102.2" y2="2118.8"/>
+			<line id="Line_471" class="st-7" x1="5.2" y1="2118.8" x2="102.2" y2="2118.8"/>
+		</g>
+	</g>
+	<g id="Payments" transform="translate(0 1013)">
+		<g id="Content-2" transform="translate(0 -18)">
+			<g id="Rectangle_160" transform="translate(173.689 985.23)">
+				<rect x="18.2" y="23.8" class="st-0" width="27.8" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="23.8" height="12.2"/>
+			</g>
+			<g id="Rectangle_161" transform="translate(115.068 998.343)">
+				<rect x="18.2" y="23.8" class="st-0" width="146.6" height="49.4"/>
+				<rect x="20.2" y="25.8" class="st-1" width="142.6" height="45.4"/>
+			</g>
+			<g id="Rectangle_162" transform="translate(139.522 1044.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<g id="Rectangle_163" transform="translate(179.197 1044.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<line id="Line_406" class="st-7" x1="206.2" y1="1010.8" x2="192.2" y2="996.8"/>
+			<text transform="matrix(1 0 0 1 166.642 1052.8657)" class="st-4 st-5 st-19">Payments</text>
+			<g id="Rectangle_164" transform="translate(219.197 1044.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<line id="Line_407" class="st-7" x1="246.2" y1="1082.8" x2="246.2" y2="1119.8"/>
+			<line id="Line_408" class="st-7" x1="271.2" y1="1144.8" x2="246.2" y2="1119.8"/>
+			<line id="Line_411" class="st-7" x1="166.2" y1="1082.8" x2="166.2" y2="1099.8"/>
+			<line id="Line_413" class="st-7" x1="206.2" y1="1082.8" x2="206.2" y2="1146.8"/>
+			<g id="Braintree" transform="translate(-922 123)">
+				<path id="Braintree_Logo" class="st-4" d="M1226.4,1045.6h13.4c10.4,0,15.5-3.4,15.5-10c0-6.6-5.5-10-16.3-10h-12.6V1045.6z
+					 M1226.4,997.4v18.6h11.7c8.8,0,13.4-3.3,13.4-9.3c0-6.1-4.7-9.3-13.5-9.3L1226.4,997.4z M1207.8,1055.6v-10h7.8v-48.2h-7.8
+					v-9.9h31.5c14.4,0,23.3,6.7,23.3,18.3c0,7.7-4.5,12.3-10.1,14.6c8.1,2.3,13.9,8,13.9,15.9c0,12.4-9.6,19.4-25.4,19.4
+					L1207.8,1055.6"/>
+				<g id="Rectangle_167" transform="translate(1263 1042) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="Adyen_Corporate" transform="translate(-918 131)">
+				<g id="Adyen_Corporate_Logo" transform="translate(1073.737 1003.822)">
+					<path id="Path_108" class="st-20" d="M69,23.8H19.2v16h32.7c2,0,3.5,1.6,3.6,3.6v28.1h-7.1c-2,0-3.5-1.6-3.6-3.6V47.6H31
+						c-7,0-12.8,5.6-12.8,12.7c0,0,0,0.1,0,0.1v14.2c0,7,5.6,12.8,12.7,12.8c0,0,0.1,0,0.1,0h50.8V36.6c0-7-5.6-12.8-12.7-12.8
+						C69,23.8,69,23.8,69,23.8z"/>
+				</g>
+				<g id="Rectangle_166" transform="translate(1150 1080) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="Paypal" transform="translate(-923 248)">
+				<g id="PayPal_Logo" transform="translate(980.374 879.479)">
+					<path id="Path_111" class="st-21" d="M33.4,85.1l1.1-7L32.1,78H20.4l8.1-51.5c0.1-0.3,0.3-0.6,0.7-0.6h19.7
+						c6.5,0,11.1,1.4,13.4,4c1,1.1,1.8,2.5,2.2,4c0.4,1.8,0.4,3.7,0,5.6l0,0.2v1.4l1.1,0.6c0.8,0.4,1.6,1,2.2,1.7
+						c1,1.2,1.6,2.6,1.8,4.1c0.3,2,0.2,4-0.3,5.9c-0.4,2.4-1.2,4.6-2.4,6.7c-1,1.7-2.3,3.1-3.8,4.2c-1.6,1.1-3.3,1.9-5.2,2.3
+						c-2.1,0.5-4.3,0.8-6.5,0.7h-1.5c-2.3,0-4.2,1.6-4.6,3.9L45.3,72l-1.9,12.3l-0.1,0.5c0,0.1,0,0.2-0.1,0.3
+						c-0.1,0-0.1,0.1-0.2,0.1L33.4,85.1z"/>
+					<path id="Path_112" class="st-22" d="M66.6,39.9c-0.1,0.4-0.1,0.8-0.2,1.2c-2.6,13.3-11.5,18-22.8,18h-5.8c-1.4,0-2.6,1-2.8,2.4
+						l-3,18.8l-0.8,5.3c-0.1,0.8,0.4,1.6,1.2,1.7c0.1,0,0.2,0,0.2,0h10.3c1.2,0,2.2-0.9,2.4-2.1l0.1-0.5l1.9-12.3l0.1-0.7
+						c0.2-1.2,1.2-2.1,2.4-2.1h1.5c9.9,0,17.7-4,20-15.7c1-4.9,0.5-8.9-2.1-11.8C68.6,41.2,67.7,40.5,66.6,39.9L66.6,39.9z"/>
+					<path id="Path_113" class="st-23" d="M63.9,38.8c-0.8-0.2-1.7-0.4-2.5-0.6c-1.7-0.3-3.4-0.4-5.1-0.4H40.8
+						c-1.2,0-2.2,0.9-2.4,2.1l-3.3,20.8L35,61.4c0.2-1.4,1.4-2.4,2.8-2.4h5.8c11.4,0,20.2-4.6,22.8-18c0.1-0.4,0.1-0.8,0.2-1.2
+						c-0.7-0.4-1.4-0.7-2.1-0.9C64.3,39,64.1,38.9,63.9,38.8L63.9,38.8z"/>
+					<path id="Path_114" class="st-21" d="M38.4,40c0.2-1.2,1.2-2.1,2.4-2.1h15.4c1.7,0,3.4,0.1,5.1,0.4c1.1,0.2,2.1,0.4,3.1,0.7
+						c0.7,0.2,1.5,0.5,2.1,0.9c0.8-4.9,0-8.3-2.7-11.3c-2.9-3.3-8.2-4.8-15-4.8H29.2c-1.4,0-2.6,1-2.8,2.4l-8.2,52
+						c-0.1,0.9,0.5,1.8,1.4,1.9c0.1,0,0.2,0,0.3,0H32l3.1-19.4L38.4,40z"/>
+				</g>
+				<g id="Rectangle_165" transform="translate(1051 955) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<line id="Line_485" class="st-7" x1="153.2" y1="1112.8" x2="166.2" y2="1099.8"/>
+			<line id="Line_486" class="st-7" x1="153.2" y1="1112.8" x2="128.2" y2="1112.8"/>
+			<line id="Line_487" class="st-7" x1="102.2" y1="1138.8" x2="128.2" y2="1112.8"/>
+		</g>
+		<g id="Lines-3" transform="translate(0 -883)">
+			<line id="Line_347-2" class="st-7" x1="32.2" y1="1120.8" x2="32.2" y2="25.8"/>
+			<line id="Line_351-2" class="st-7" x1="83.2" y1="-25.2" x2="32.2" y2="25.8"/>
+			<line id="Line_352-2" class="st-7" x1="83.2" y1="-25.2" x2="166.2" y2="-25.2"/>
+			<line id="Line_435" class="st-7" x1="32.2" y1="1120.8" x2="51.2" y2="1139.8"/>
+			<line id="Line_436" class="st-7" x1="51.2" y1="1327.8" x2="51.2" y2="1139.8"/>
+			<line id="Line_437" class="st-7" x1="51.2" y1="1327.8" x2="32.2" y2="1346.8"/>
+			<line id="Line_438" class="st-7" x1="32.2" y1="1754.8" x2="32.2" y2="1346.8"/>
+			<line id="Line_453" class="st-7" x1="32.2" y1="1754.8" x2="139.2" y2="1861.8"/>
+			<line id="Line_454" class="st-7" x1="192.2" y1="1861.8" x2="139.2" y2="1861.8"/>
+		</g>
+	</g>
+	<g id="Search" transform="translate(1469.553 715.042) rotate(180)">
+		<g id="Content-3" transform="translate(-2 -1360)">
+			<text transform="matrix(-1 0 0 -1 1290.828 315.1752)" class="st-4 st-5 st-19">Search</text>
+			<g id="Klevu" transform="translate(1237.295 127)">
+				<g id="Rectangle_37" transform="translate(0.259 0.042)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+				<g id="Klevu_Logo" transform="translate(83.535 80.37) rotate(180)">
+					<g id="Group_17" transform="translate(6.401 4.453)">
+						<circle id="Ellipse_64" class="st-24" cx="50" cy="55.7" r="32"/>
+					</g>
+					<g id="Group_26" transform="translate(23.542 17.736)">
+						<g id="Group_19" transform="translate(3.618)">
+							<g id="Group_18">
+								<path id="Path_165" d="M28.2,24.4c-3.3,4.8-6.6,9.7-9.8,14.5c-0.9,1.4,1.3,2.7,2.2,1.3c3.3-4.8,6.6-9.7,9.8-14.5
+									C31.4,24.3,29.1,23,28.2,24.4L28.2,24.4z"/>
+							</g>
+						</g>
+						<g id="Group_21" transform="translate(13.716 0.122)">
+							<g id="Group_20">
+								<path id="Path_166" d="M18.4,25.7c3.2,5,6.4,9.9,9.6,14.9c0.9,1.4,3.2,0.1,2.2-1.3c-3.2-5-6.4-9.9-9.6-14.9
+									C19.7,23,17.5,24.3,18.4,25.7z"/>
+							</g>
+						</g>
+						<g id="Group_23" transform="translate(0 12.403)">
+							<g id="Group_22">
+								<path id="Path_167" d="M31.8,24.4c-4.5,6.6-8.9,13.1-13.4,19.6c-0.9,1.4,1.3,2.7,2.2,1.3c4.5-6.6,8.9-13.1,13.4-19.6
+									C35,24.3,32.8,23,31.8,24.4L31.8,24.4z"/>
+							</g>
+						</g>
+						<g id="Group_25" transform="translate(13.44 12.422)">
+							<g id="Group_24">
+								<path id="Path_168" d="M18.4,25.7c4.5,6.6,8.9,13.1,13.4,19.6c0.9,1.3,3.2,0.1,2.2-1.3c-4.5-6.6-8.9-13.1-13.4-19.6
+									C19.7,23,17.5,24.3,18.4,25.7L18.4,25.7z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="Elastic" transform="translate(1339.622 222.795)">
+				<g id="Rectangle_37-2" transform="translate(-0.069 0.247)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+				<g id="Elastic_Logo" transform="translate(98.531 296.547) rotate(180)">
+					<path id="Path_89" class="st-4" d="M107.1,277.8c0-5.7-3.5-10.8-8.9-12.7c2-10.5-5-20.7-15.5-22.7c-1.1-0.2-2.3-0.3-3.4-0.3
+						c-6.2,0-12,3-15.6,8c-1.8-1.4-4-2.2-6.3-2.1c-5.7,0-10.2,4.6-10.3,10.3c0,1.2,0.2,2.4,0.6,3.6c-5.4,1.9-8.9,7-9,12.7
+						c0,5.7,3.6,10.8,8.9,12.7c-2,10.4,4.8,20.5,15.2,22.6c7.4,1.4,14.9-1.6,19.3-7.7c1.8,1.4,4,2.2,6.3,2.2
+						c5.7,0,10.2-4.6,10.3-10.2c0-1.2-0.2-2.4-0.6-3.6C103.5,288.5,107.1,283.5,107.1,277.8"/>
+					<path id="Path_90" class="st-25" d="M65.7,271.4l15,6.8L95.7,265c0.2-1.1,0.3-2.2,0.3-3.3c0-9.3-7.5-16.9-16.8-16.9
+						c-5.6,0-10.8,2.7-13.9,7.3l-2.5,13L65.7,271.4z"/>
+					<path id="Path_91" class="st-26" d="M50.2,287.2c-0.2,1.1-0.3,2.2-0.3,3.4c0,9.3,7.6,16.9,16.9,16.9c5.6,0,10.8-2.8,14-7.4
+						l2.5-13l-3.3-6.4l-15-6.8L50.2,287.2z"/>
+					<path id="Path_92" class="st-27" d="M50.1,261.4l10.3,2.4l2.2-11.6c-3.5-2.7-8.6-2-11.3,1.5c-1.1,1.4-1.7,3.1-1.7,4.9
+						C49.6,259.5,49.8,260.5,50.1,261.4"/>
+					<path id="Path_93" class="st-28" d="M49.2,263.8c-5.9,1.9-9.2,8.3-7.2,14.2c1.1,3.2,3.5,5.8,6.7,7l14.4-13l-2.6-5.6L49.2,263.8z
+						"/>
+					<path id="Path_94" class="st-29" d="M83.4,300.1c1.4,1.1,3.1,1.7,4.9,1.7c4.5,0,8.1-3.6,8.1-8.1c0-1-0.2-1.9-0.5-2.8l-10.2-2.4
+						L83.4,300.1z"/>
+					<path id="Path_95" class="st-30" d="M85.4,285.8l11.2,2.6c5.9-2,9.2-8.3,7.2-14.3c-1.1-3.2-3.5-5.8-6.7-7L82.5,280L85.4,285.8z"
+						/>
+				</g>
+			</g>
+			<g id="Attraqt" transform="translate(1136.056 188.494)">
+				<g id="Rectangle_37-3" transform="translate(0.498 -0.453)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="87" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="83" height="84"/>
+				</g>
+				<g id="Attraqt_Logo" transform="translate(93.588 87.796) rotate(180)">
+					<g id="Group_15" transform="translate(16.09 11.249)">
+						
+							<linearGradient id="Ellipse_63_1_" gradientUnits="userSpaceOnUse" x1="-606.097" y1="761.8248" x2="-605.097" y2="761.8248" gradientTransform="matrix(66 0 0 -66 40020.5781 50337.25)">
+							<stop  offset="0" style="stop-color:#3BC0AA"/>
+							<stop  offset="1" style="stop-color:#4FF766"/>
+						</linearGradient>
+						<circle id="Ellipse_63" class="st-31" cx="51.2" cy="56.8" r="33"/>
+					</g>
+					<g id="Group_16" transform="translate(20.738 14.276)">
+						<path id="Path_156" class="st-0" d="M42.4,44.7c1.4,0.4,7,1.7,7.9,2.3c0.7-2.5,3.9-18.4,3.9-18.4l-0.3,0.3
+							C53.9,28.9,45.2,36.8,42.4,44.7z"/>
+						<path id="Path_157" class="st-4" d="M60.3,23.9c0,0-11.2-2.6-24.5,19.9c-1-0.2-18-1.5-17.7,9.1c0.5,3.9,6.6,4.7,8.2,1.4
+							c0.1-1.2,0.3-2.1-1-2.8c0.1-0.3,1.3-3.9,7.9-3.4c-0.9,1.6-9.6,15.1-10.1,28.3c0.2,0.3,1.8,3.1,9.3,6.6
+							c-0.5-1.6-2.6-8.3,8.1-35c0,0,6.9,0.8,9,2.4C49,53,44.5,75.3,44.5,75.3l10,0.1l10.4-48.8C63.4,25.6,61.9,24.7,60.3,23.9z
+							 M50.3,46.9c-0.9-0.5-6.5-1.8-7.9-2.3c2.8-7.9,11.5-15.8,11.5-15.8l0.3-0.3C54.2,28.5,51,44.4,50.3,46.9z"/>
+					</g>
+				</g>
+			</g>
+			<g id="Rectangle_203" transform="translate(1295.865 381.812) rotate(-180)">
+				<rect x="18.2" y="23.8" class="st-0" width="27.8" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="23.8" height="12.2"/>
+			</g>
+			<g id="Rectangle_204" transform="translate(1354.486 368.699) rotate(-180)">
+				<rect x="18.2" y="23.8" class="st-0" width="146.6" height="49.4"/>
+				<rect x="20.2" y="25.8" class="st-1" width="142.6" height="45.4"/>
+			</g>
+			<g id="Rectangle_205" transform="translate(1329.032 322.419) rotate(-180)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<g id="Rectangle_206" transform="translate(1250.356 322.419) rotate(-180)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<g id="Rectangle_207" transform="translate(1289.356 322.419) rotate(-180)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<line id="Line_478" class="st-7" x1="1262.9" y1="190.7" x2="1262.9" y2="282.7"/>
+			<line id="Line_479" class="st-7" x1="1223.9" y1="226.7" x2="1223.9" y2="282.7"/>
+			<line id="Line_480" class="st-7" x1="1223.9" y1="226.7" x2="1205.9" y2="208.7"/>
+			<line id="Line_481" class="st-7" x1="1302.9" y1="260.7" x2="1302.9" y2="282.7"/>
+			<line id="Line_482" class="st-7" x1="1302.9" y1="260.7" x2="1320.9" y2="242.7"/>
+		</g>
+		<g id="Lines-4" transform="translate(1215.553 585.042) rotate(-180)">
+			<line id="Line_346" class="st-7" x1="129.2" y1="1117.8" x2="129.2" y2="67.8"/>
+			<line id="Line_348" class="st-7" x1="69.2" y1="7.8" x2="129.2" y2="67.8"/>
+			<line id="Line_349" class="st-7" x1="69.2" y1="7.8" x2="54.2" y2="7.8"/>
+			<line id="Line_350" class="st-7" x1="40.2" y1="21.8" x2="54.2" y2="7.8"/>
+			<g id="Ellipse_70" transform="translate(94.971 36.071) rotate(135)">
+				<circle class="st-0" cx="11" cy="-22.7" r="7"/>
+				<circle class="st-1" cx="11" cy="-22.7" r="5"/>
+			</g>
+			<line id="Line_399" class="st-7" x1="81.2" y1="37.8" x2="99.2" y2="55.8"/>
+			<line id="Line_400" class="st-7" x1="81.2" y1="37.8" x2="81.2" y2="21.8"/>
+			<line id="Line_423" class="st-7" x1="129.2" y1="1117.8" x2="111.2" y2="1135.8"/>
+			<line id="Line_424" class="st-7" x1="111.2" y1="1365.8" x2="111.2" y2="1135.8"/>
+			<line id="Line_442" class="st-7" x1="121.2" y1="1513.8" x2="57.2" y2="1577.8"/>
+			<line id="Line_443" class="st-7" x1="-36.8" y1="1577.8" x2="57.2" y2="1577.8"/>
+			<line id="Line_460" class="st-7" x1="111.2" y1="1365.8" x2="124.2" y2="1378.8"/>
+			<line id="Line_461" class="st-7" x1="121.2" y1="1513.8" x2="121.2" y2="1375.8"/>
+			<line id="Line_484" class="st-7" x1="-36.8" y1="1577.8" x2="-45.8" y2="1587.8"/>
+		</g>
+	</g>
+	<g id="Order_Management" transform="translate(5 235)">
+		<g id="Content-4" transform="translate(0 -26)">
+			<line id="Line_416" class="st-7" x1="189.2" y1="1246.8" x2="201.2" y2="1258.8"/>
+			<line id="Line_417" class="st-7" x1="201.2" y1="1266.8" x2="201.2" y2="1258.8"/>
+			<g id="Rectangle_168" transform="translate(168.689 1241.23)">
+				<rect x="18.2" y="23.8" class="st-0" width="27.8" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="23.8" height="12.2"/>
+			</g>
+			<g id="Rectangle_169" transform="translate(110.068 1254.343)">
+				<rect x="18.2" y="23.8" class="st-0" width="146.6" height="53.4"/>
+				<rect x="20.2" y="25.8" class="st-1" width="142.6" height="49.4"/>
+			</g>
+			<g id="Rectangle_170" transform="translate(154.522 1303.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<g id="Rectangle_171" transform="translate(194.197 1303.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<text transform="matrix(1 0 0 1 176.98 1299.8657)" class="st-4 st-5 st-19">Order</text>
+			<text transform="matrix(1 0 0 1 147.76 1319.8657)" class="st-4 st-5 st-19">Management</text>
+			<line id="Line_418" class="st-7" x1="181.2" y1="1355.8" x2="181.2" y2="1342.8"/>
+			<line id="Line_419" class="st-7" x1="181.2" y1="1355.8" x2="173.2" y2="1363.8"/>
+			<line id="Line_420" class="st-7" x1="181.2" y1="1355.8" x2="146.2" y2="1390.8"/>
+			<line id="Line_421" class="st-7" x1="220.2" y1="1355.8" x2="220.2" y2="1342.8"/>
+			<line id="Line_422" class="st-7" x1="220.2" y1="1355.8" x2="256.2" y2="1391.8"/>
+			<g id="Linnworks" transform="translate(-1089 491)">
+				<g id="Linnworks_Logo" transform="translate(1294.1 885.084)">
+					<path id="Path_169" class="st-4" d="M18.5,43.5C23.8,31.6,35.6,24,48.6,24.2c22.8-0.3,31.6,19.3,31.6,19.3
+						c0,0.2-0.1,0.4-0.3,0.6c-1.1,0.6-2.3,1.2-3.5,1.8c0,0-0.6,0.6-1.5-0.3c-0.9-0.9-7.5-15.9-26.5-15.9
+						c-17.5,0.3-24.8,16.1-24.8,16.1s-0.3,0.6-1.2,0.3c-1.2-0.5-2.4-1.1-3.5-1.8C18.9,44.2,18.3,43.9,18.5,43.5z"/>
+					<path id="Path_170" class="st-4" d="M79.8,73.4c-5.3,11.9-17.1,19.4-30.1,19.3C26.9,93,18.1,73.4,18.1,73.4
+						c0-0.2,0.1-0.4,0.3-0.6c1.1-0.6,2.3-1.2,3.5-1.8c0,0,0.6-0.6,1.5,0.3s7.5,15.9,26.5,15.9C67.4,87,74.7,71.2,74.7,71.2
+						s0.3-0.6,1.2-0.3c1.2,0.5,2.4,1.1,3.5,1.8C79.4,72.7,80,73,79.8,73.4z"/>
+					<path id="Path_171" class="st-4" d="M44,61H28c-0.4,0-0.8-0.3-0.8-0.7c0,0,0,0,0,0v-3.5c0-0.4,0.3-0.8,0.7-0.8c0,0,0,0,0,0h16
+						c0.4,0,0.8,0.3,0.8,0.7c0,0,0,0,0,0v3.5C44.8,60.7,44.4,61,44,61z"/>
+					<path id="Path_172" class="st-4" d="M70.6,61h-16c-0.4,0-0.8-0.3-0.8-0.7c0,0,0,0,0,0v-3.5c0-0.4,0.3-0.8,0.7-0.8c0,0,0,0,0,0
+						h16c0.4,0,0.8,0.3,0.8,0.7c0,0,0,0,0,0v3.5C71.4,60.7,71.1,61,70.6,61C70.6,61,70.6,61,70.6,61z"/>
+					<path id="Path_173" class="st-4" d="M65.1,50.5v16c0,0.4-0.3,0.8-0.7,0.8c0,0,0,0,0,0h-3.5c-0.4,0-0.8-0.3-0.8-0.7c0,0,0,0,0,0
+						v-16c0-0.4,0.3-0.8,0.7-0.8c0,0,0,0,0,0h3.5C64.7,49.7,65.1,50.1,65.1,50.5C65.1,50.5,65.1,50.5,65.1,50.5z"/>
+				</g>
+				<g id="Rectangle_172" transform="translate(1369 964) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="IBM_Sterling" transform="translate(-1143 581)">
+				<path id="IBM_Logo" class="st-4" d="M1254.2,839.8v2h13.7v-2H1254.2z M1269.7,839.8v2h19.5c-1.3-1.2-2.9-1.9-4.6-2H1269.7z
+					 M1293.1,839.8v2h11.7l-0.7-2H1293.1z M1313.2,839.8l-0.7,2h11.6v-2H1313.2z M1254.2,843.5v2h13.7v-2H1254.2z M1269.7,843.5v2
+					h21.7c-0.1-0.7-0.3-1.4-0.7-2L1269.7,843.5z M1293.1,843.5v2h13l-0.7-2L1293.1,843.5z M1311.8,843.5l-0.7,2h13v-2H1311.8z
+					 M1258.1,847.3v2h5.9v-2H1258.1z M1273.7,847.3v2h5.9v-2H1273.7z M1285.4,847.3v2h5.9c0.2-0.6,0.3-1.3,0.3-2H1285.4z
+					 M1297,847.3v2h10.4l-0.7-2H1297z M1310.6,847.3l-0.7,2h10.5v-2H1310.6z M1258.1,851v2h5.9v-2H1258.1z M1273.7,851v2h15.1
+					c0.7-0.5,1.3-1.2,1.6-2H1273.7z M1297,851v2h5.9v-1.1l0.3,1.1h10.8l0.4-1.1v1.1h5.9v-2h-11.2l-0.5,1.6l-0.5-1.6H1297z
+					 M1258.1,854.7v2h5.9v-2H1258.1z M1273.7,854.7v2h16.8c-0.5-0.7-1-1.4-1.6-2H1273.7z M1297,854.7v2h5.9v-2H1297z M1303.9,854.7
+					l0.8,2h8.1l0.7-2H1303.9z M1314.4,854.7v2h5.9v-2H1314.4z M1258.1,858.4v2h5.9v-2H1258.1z M1273.7,858.4v2h5.9v-2H1273.7z
+					 M1285.4,858.4v2h6.2c0-0.7-0.1-1.3-0.3-2L1285.4,858.4z M1297,858.4v2h5.9v-2H1297z M1305.3,858.4l0.7,2h5.5l0.7-2
+					L1305.3,858.4z M1314.4,858.4v2h5.9v-2H1314.4z M1254.3,862.2v2h13.7v-2H1254.3z M1269.7,862.2v2h21c0.4-0.6,0.6-1.3,0.7-2
+					H1269.7z M1293.2,862.2v2h9.7v-2H1293.2z M1306.6,862.2l0.8,2h2.6l0.7-2H1306.6z M1314.4,862.2v2h9.9v-2H1314.4z M1254.3,865.9
+					v2h13.7v-2H1254.3z M1269.7,865.9v2h14.8c1.7-0.1,3.3-0.8,4.6-2H1269.7z M1293.2,865.9v2h9.7v-2H1293.2z M1307.9,865.9l0.7,1.9
+					h0.1l0.7-2L1307.9,865.9z M1314.4,865.9v2h9.9v-2H1314.4z"/>
+				<g id="Rectangle_165-2" transform="translate(1315 874) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+		</g>
+		<g id="Lines-5" transform="translate(-5 -105)">
+			<line id="Line_346-2" class="st-7" x1="35.2" y1="445.8" x2="35.2" y2="28.8"/>
+			<line id="Line_348-2" class="st-7" x1="66.2" y1="-3.2" x2="34.2" y2="28.8"/>
+			<line id="Line_349-2" class="st-7" x1="66.2" y1="-3.2" x2="93.2" y2="-3.2"/>
+			<line id="Line_350-2" class="st-7" x1="118.2" y1="21.8" x2="93.2" y2="-3.2"/>
+			<line id="Line_374" class="st-7" x1="50.2" y1="460.8" x2="35.2" y2="445.8"/>
+			<line id="Line_375" class="st-7" x1="50.2" y1="460.8" x2="50.2" y2="573.8"/>
+			<line id="Line_376" class="st-7" x1="35.2" y1="588.8" x2="50.2" y2="573.8"/>
+			<line id="Line_377" class="st-7" x1="35.2" y1="588.8" x2="35.2" y2="1100.8"/>
+			<g id="Ellipse_69" transform="translate(52.971 3.071) rotate(135)">
+				<circle class="st-0" cx="11" cy="-22.7" r="7"/>
+				<circle class="st-1" cx="11" cy="-22.7" r="5"/>
+			</g>
+			<line id="Line_396" class="st-7" x1="77.2" y1="10.8" x2="66.2" y2="21.8"/>
+			<line id="Line_397" class="st-7" x1="78.2" y1="9.8" x2="92.2" y2="9.8"/>
+			<line id="Line_398" class="st-7" x1="99.2" y1="2.8" x2="92.2" y2="9.8"/>
+			<line id="Line_427" class="st-7" x1="55.2" y1="1120.8" x2="35.2" y2="1100.8"/>
+			<line id="Line_428" class="st-7" x1="55.2" y1="1120.8" x2="55.2" y2="1288.8"/>
+			<line id="Line_429" class="st-7" x1="92.2" y1="1325.8" x2="55.2" y2="1288.8"/>
+			<line id="Line_430" class="st-7" x1="92.2" y1="1325.8" x2="193.2" y2="1325.8"/>
+		</g>
+	</g>
+	<g id="CMS" transform="translate(214 -1007)">
+		<g id="Content-5" transform="translate(0 -5)">
+			<line id="Line_472" class="st-7" x1="5.2" y1="2208.8" x2="-7.8" y2="2221.8"/>
+			<line id="Line_473" class="st-7" x1="-7.8" y1="2233.8" x2="-7.8" y2="2221.8"/>
+			<g id="Rectangle_197" transform="translate(-40.311 2208.23)">
+				<rect x="18.2" y="23.8" class="st-0" width="27.8" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="23.8" height="12.2"/>
+			</g>
+			<g id="Rectangle_198" transform="translate(-98.932 2221.343)">
+				<rect x="18.2" y="23.8" class="st-0" width="146.6" height="49"/>
+				<rect x="20.2" y="25.8" class="st-1" width="142.6" height="45"/>
+			</g>
+			<g id="Rectangle_199" transform="translate(-54.478 2266.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<g id="Rectangle_200" transform="translate(-14.803 2266.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<text transform="matrix(1 0 0 1 -25.555 2275.8657)" class="st-4 st-5 st-19">CMS</text>
+			<line id="Line_474" class="st-7" x1="-27.8" y1="2326.8" x2="-27.8" y2="2305.8"/>
+			<line id="Line_475" class="st-7" x1="12.2" y1="2326.8" x2="12.2" y2="2305.8"/>
+			<line id="Line_476" class="st-7" x1="12.2" y1="2326.8" x2="47.2" y2="2361.8"/>
+			<line id="Line_477" class="st-7" x1="-27.8" y1="2326.8" x2="-62.8" y2="2361.8"/>
+			<g id="Magnolia" transform="translate(-991 1810)">
+				<g id="Magnolia_Logo" transform="translate(876 538)">
+					
+						<linearGradient id="Path_175_1_" gradientUnits="userSpaceOnUse" x1="-448.4456" y1="1235.5243" x2="-447.4456" y2="1235.5243" gradientTransform="matrix(67.621 0 0 -67.605 30254.1992 83585.2578)">
+						<stop  offset="0" style="stop-color:#79C912"/>
+						<stop  offset="1" style="stop-color:#599901"/>
+					</linearGradient>
+					<path id="Path_175" class="st-32" d="M85.8,37.2V78c0,7.4-6,13.4-13.4,13.4c0,0,0,0,0,0H31.6c-7.4,0-13.4-6-13.4-13.4
+						c0,0,0,0,0,0V37.2c0-7.4,6-13.4,13.4-13.4h40.8C79.8,23.8,85.8,29.8,85.8,37.2C85.8,37.2,85.8,37.2,85.8,37.2z"/>
+					<g id="Group_28" transform="translate(8.163 16.989)">
+						<path id="Path_176" class="st-4" d="M26.7,58.9h-8.5V24.5h6.6l1.1,4.6c1.5-1.5,3.2-2.8,5.1-3.8c2-1,4.2-1.5,6.4-1.4
+							c2.1-0.1,4.2,0.4,6.1,1.4c1.6,0.9,2.9,2.3,3.7,4c1.6-1.6,3.4-3,5.4-4c2-1,4.3-1.5,6.5-1.4c3.6,0,6.4,1,8.3,3
+							c1.9,2,2.8,4.8,2.8,8.5v23.6h-8.5V36.4c0.1-1.6-0.4-3.1-1.3-4.3c-1-1.1-2.5-1.7-4-1.6c-1.5,0-2.9,0.4-4.2,1
+							c-1.4,0.7-2.7,1.7-3.8,2.9c0,0.3,0.1,0.6,0.1,0.9v23.6h-8.5V36.4c0.1-1.6-0.4-3.1-1.3-4.3c-1-1.1-2.5-1.7-4-1.6
+							c-1.5,0-2.9,0.4-4.2,1.1c-1.4,0.8-2.7,1.8-3.7,3.1L26.7,58.9z"/>
+					</g>
+				</g>
+				<g id="Rectangle_201" transform="translate(954 616) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="HCL_Digital_Experience" transform="translate(-1101 1823)">
+				<g id="HCL_Digital_Experience_Logo" transform="translate(1097.742 526.742)">
+					<rect id="Rectangle_145" x="20.6" y="26.3" class="st-33" width="59.9" height="59.9"/>
+					
+						<linearGradient id="Path_161_1_" gradientUnits="userSpaceOnUse" x1="-558.81" y1="1234.3044" x2="-557.81" y2="1234.3044" gradientTransform="matrix(64.873 0 0 -64.873 36269.8555 80129.2812)">
+						<stop  offset="0" style="stop-color:#D694F9"/>
+						<stop  offset="0.48" style="stop-color:#D893F8"/>
+						<stop  offset="0.69" style="stop-color:#E08FF4"/>
+						<stop  offset="0.86" style="stop-color:#EC88EE"/>
+						<stop  offset="1" style="stop-color:#FE7DE5"/>
+						<stop  offset="1" style="stop-color:#FF7DE5"/>
+					</linearGradient>
+					<path id="Path_161" class="st-34" d="M80.6,26.3v59.9H20.6V26.3H80.6 M80.6,23.8H20.6c-1.4,0-2.5,1.1-2.5,2.5c0,0,0,0,0,0v59.9
+						c0,1.4,1.1,2.5,2.5,2.5c0,0,0,0,0,0h59.9c1.4,0,2.5-1.1,2.5-2.5l0,0V26.3C83,24.9,81.9,23.8,80.6,23.8
+						C80.6,23.8,80.6,23.8,80.6,23.8z"/>
+					
+						<linearGradient id="Path_162_1_" gradientUnits="userSpaceOnUse" x1="-560.8884" y1="1246.0891" x2="-561.8494" y2="1246.1021" gradientTransform="matrix(33.653 0 0 -34.004 18773.832 42426.2695)">
+						<stop  offset="0.49" style="stop-color:#D694F9"/>
+						<stop  offset="0.89" style="stop-color:#F583EA"/>
+						<stop  offset="1" style="stop-color:#FF7DE5"/>
+					</linearGradient>
+					<path id="Path_162" class="st-35" d="M49.1,39.1H38.4l7.7,17l-23,17h10.6l23.1-17L49.1,39.1z"/>
+					<path id="Path_163" class="st-36" d="M63.1,51.3l16.5-12.1H57.7L63.1,51.3z"/>
+					<path id="Path_164" class="st-36" d="M59.6,62.2L44.7,73.1h19.8L59.6,62.2z"/>
+				</g>
+				<g id="Rectangle_202" transform="translate(1174 603) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+		</g>
+		<g id="Lines-6" transform="translate(-209 1007)">
+			<line id="Line_372" class="st-7" x1="305.2" y1="250.8" x2="289.2" y2="234.8"/>
+			<line id="Line_378" class="st-7" x1="377.2" y1="574.8" x2="363.2" y2="588.8"/>
+			<line id="Line_379" class="st-7" x1="363.2" y1="706.8" x2="363.2" y2="588.8"/>
+			<line id="Line_380" class="st-7" x1="363.2" y1="706.8" x2="377.2" y2="720.8"/>
+			<line id="Line_383" class="st-7" x1="305.2" y1="250.8" x2="342.2" y2="250.8"/>
+			<line id="Line_384" class="st-7" x1="378.2" y1="286.8" x2="342.2" y2="250.8"/>
+			<line id="Line_414" class="st-7" x1="377.2" y1="1173.8" x2="354.2" y2="1196.8"/>
+			<line id="Line_415" class="st-7" x1="214.2" y1="1196.8" x2="354.2" y2="1196.8"/>
+		</g>
+	</g>
+	<g id="BI_Reporting" transform="translate(2 -424)">
+		<g id="Content-6">
+			<line id="Line_431" class="st-7" x1="205.2" y1="1379.8" x2="219.2" y2="1365.8"/>
+			<g id="Rectangle_173" transform="translate(172.689 1354.23)">
+				<rect x="18.2" y="23.8" class="st-0" width="27.8" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="23.8" height="12.2"/>
+			</g>
+			<g id="Rectangle_174" transform="translate(114.068 1367.343)">
+				<rect x="18.2" y="23.8" class="st-0" width="146.6" height="49.4"/>
+				<rect x="20.2" y="25.8" class="st-1" width="142.6" height="45.4"/>
+			</g>
+			<g id="Rectangle_175" transform="translate(138.522 1413.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<g id="Rectangle_176" transform="translate(178.197 1413.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<text transform="matrix(1 0 0 1 155.03 1421.8657)" class="st-4 st-5 st-19">BI Reporting</text>
+			<g id="Rectangle_177" transform="translate(218.197 1413.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<line id="Line_432" class="st-7" x1="245.2" y1="1451.8" x2="245.2" y2="1461.8"/>
+			<line id="Line_433" class="st-7" x1="165.2" y1="1451.8" x2="165.2" y2="1478.8"/>
+			<line id="Line_434" class="st-7" x1="205.2" y1="1451.8" x2="205.2" y2="1465.8"/>
+			<line id="Line_439" class="st-7" x1="132.2" y1="1511.8" x2="165.2" y2="1478.8"/>
+			<line id="Line_440" class="st-7" x1="252.2" y1="1468.8" x2="245.2" y2="1461.8"/>
+			<line id="Line_441" class="st-7" x1="196.2" y1="1474.8" x2="205.2" y2="1465.8"/>
+			<line id="Line_468" class="st-7" x1="252.2" y1="1468.8" x2="304.2" y2="1468.8"/>
+			<line id="Line_469" class="st-7" x1="316.2" y1="1480.8" x2="304.2" y2="1468.8"/>
+			<g id="Tableau" transform="translate(-973 739)">
+				<g id="Tableau_Logo" transform="translate(1235 726)">
+					<path id="Path_118" class="st-37" d="M52.2,71.8h3.9V61.1H66v-3.8h-9.9V46.5h-3.9v10.7h-9.8V61h9.8L52.2,71.8z"/>
+					<path id="Path_119" class="st-38" d="M33.9,87.3h3.3v-9.5h8.8v-3h-8.8v-9.7h-3.3v9.7h-8.8v3h8.8V87.3z"/>
+					<path id="Path_120" class="st-39" d="M71,52.8h3.3v-9.5h9v-2.9h-9v-9.7H71v9.7h-8.8v2.9H71V52.8z"/>
+					<path id="Path_121" class="st-40" d="M52.8,94.8h2.9V88h6.1v-2.5h-6.1v-6.8h-2.9v6.8h-6V88h6V94.8z"/>
+					<path id="Path_122" class="st-41" d="M34,52.8h3.1v-9.7h9v-2.7h-8.9v-9.7H34v9.7h-9v2.7h9V52.8z"/>
+					<path id="Path_123" class="st-40" d="M81.2,67.1h2.9v-6.7h6.1v-2.6h-6.1v-6.7h-2.9v6.7h-6v2.6h6V67.1z"/>
+					<path id="Path_124" class="st-42" d="M71,87.3h3.3v-9.5h9v-3h-9v-9.7H71v9.7h-8.8v3H71V87.3z"/>
+					<path id="Path_125" class="st-43" d="M61.3,32.4v-2h-6v-6.6h-2.1v6.6h-6v2h6V39h2.1v-6.6H61.3z M24.1,66.7h2.1v-6.6h6v-2h-6
+						v-6.4h-2.1v6.4h-6v2.1l6-0.1V66.7z"/>
+				</g>
+				<g id="Rectangle_179" transform="translate(1315 806) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="Power_BI" transform="translate(-1038 672)">
+				<g id="Power_BI_Logo" transform="translate(1072.989 780.508)">
+					<g>
+						<defs>
+							<rect id="SVGID_1_" x="19.1" y="23.8" width="68.1" height="71.7"/>
+						</defs>
+						<clipPath id="SVGID_2_">
+							<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+						</clipPath>
+						<g id="Group_4" transform="translate(0.9)" class="st-44">
+							<path id="Path_126" class="st-4" d="M39.7,81.6c0,2.4-2,4.4-4.4,4.4c-2.4,0.1-4.4-1.8-4.4-4.2c0-0.1,0-0.1,0-0.2v-19
+								c0-2.4,2-4.4,4.4-4.4c2.4-0.1,4.4,1.8,4.4,4.2c0,0.1,0,0.1,0,0.2V81.6z"/>
+						</g>
+					</g>
+					<g>
+						<defs>
+							<rect id="SVGID_3_" x="19.1" y="23.8" width="68.1" height="71.7"/>
+						</defs>
+						<clipPath id="SVGID_4_">
+							<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+						</clipPath>
+						<g id="Group_5" transform="translate(0.9)" class="st-45">
+							<path id="Path_127" class="st-4" d="M52.4,86.6c0,2.4-2,4.4-4.4,4.4c-2.3,0-4.2-1.8-4.2-4.1c0-0.1,0-0.2,0-0.3v-29
+								c0-2.4,2-4.4,4.4-4.4c2.4-0.1,4.4,1.8,4.4,4.2c0,0.1,0,0.1,0,0.2v29H52.4z"/>
+						</g>
+					</g>
+					<g>
+						<defs>
+							<rect id="SVGID_5_" x="19.1" y="23.8" width="68.1" height="71.7"/>
+						</defs>
+						<clipPath id="SVGID_6_">
+							<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+						</clipPath>
+						<g id="Group_6" transform="translate(0.9)" class="st-46">
+							<path id="Path_128" class="st-4" d="M26.8,77.3c0,2.4-2,4.4-4.4,4.4C20,81.8,18,79.9,18,77.5c0-0.1,0-0.1,0-0.2V67
+								c0-2.5,2-4.4,4.4-4.4s4.4,2,4.4,4.4V77.3z"/>
+						</g>
+					</g>
+					<g>
+						<defs>
+							<rect id="SVGID_7_" x="19.1" y="23.8" width="68.1" height="71.7"/>
+						</defs>
+						<clipPath id="SVGID_8_">
+							<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+						</clipPath>
+						<g id="Group_7" transform="translate(0.9)" class="st-47">
+							<path id="Path_129" class="st-4" d="M65.1,91.3c0.1,2.4-1.8,4.4-4.2,4.5s-4.4-1.8-4.5-4.2c0-0.1,0-0.2,0-0.3V52.8
+								c0-2.5,2-4.4,4.4-4.4c2.5,0,4.4,2,4.4,4.4v38.5H65.1z"/>
+						</g>
+					</g>
+					<g>
+						<defs>
+							<rect id="SVGID_9_" x="19.1" y="23.8" width="68.1" height="71.7"/>
+						</defs>
+						<clipPath id="SVGID_10_">
+							<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+						</clipPath>
+						<g id="Group_8" transform="translate(0.9)" class="st-48">
+							<path id="Path_130" class="st-4" d="M79.1,89.4c-0.8,0-1.6-0.2-2.3-0.4l-5.3-1.7c-0.9-0.3-1.3-1.2-1.1-2.1
+								c0.3-0.9,1.2-1.3,2.1-1.1l5.5,1.7c1.2,0.4,2.5,0.2,3.4-0.6c1-0.7,1.5-1.8,1.5-3V46.9c0-1.6-1-3.1-2.5-3.6L28.5,27.6
+								c-1.1-0.4-2.4-0.2-3.4,0.4c-0.9,0.8-1.4,2-1.5,3.2v24.3c0,0.9-0.7,1.7-1.6,1.7c0,0,0,0,0,0c-0.9,0-1.7-0.7-1.7-1.6
+								c0,0,0,0,0,0V31.2c0-2.3,1.1-4.4,3-5.7c1.8-1.4,4.2-1.8,6.3-1.1l51.6,15.7c3,1,5.1,3.8,5.1,7v35.3c0,2.3-1.1,4.5-3,5.9
+								C82,88.9,80.5,89.3,79.1,89.4"/>
+						</g>
+					</g>
+				</g>
+				<g id="Rectangle_165-3" transform="translate(1152 860) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="Cognos" transform="translate(-997 757)">
+				<g id="Cognos_Logo" transform="translate(922.499 743.456)">
+					<path id="Path_151" class="st-49" d="M237,91.3V23.8h67.6v67.5H237z"/>
+					<path id="Path_152" class="st-50" d="M249.8,78.5V36.6h41.9v41.9L249.8,78.5L249.8,78.5z"/>
+				</g>
+				<g id="Rectangle_178" transform="translate(1219 821) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<line id="Line_483" class="st-7" x1="196.2" y1="1474.8" x2="196.2" y2="1515.8"/>
+		</g>
+		<g id="Lines-7" transform="translate(-2 421)">
+			<line id="Line_385" class="st-7" x1="383.2" y1="417.8" x2="247.2" y2="281.8"/>
+			<g id="Ellipse_68" transform="translate(335.971 336.071) rotate(135)">
+				<circle class="st-0" cx="11" cy="-22.7" r="7"/>
+				<circle class="st-1" cx="11" cy="-22.7" r="5"/>
+			</g>
+			<line id="Line_394" class="st-7" x1="339.2" y1="354.8" x2="303.2" y2="318.8"/>
+			<line id="Line_395" class="st-7" x1="286.2" y1="318.8" x2="303.2" y2="318.8"/>
+			<line id="Line_404" class="st-7" x1="347.2" y1="944.8" x2="382.2" y2="909.8"/>
+			<line id="Line_405" class="st-7" x1="347.2" y1="944.8" x2="221.2" y2="944.8"/>
+		</g>
+	</g>
+	<g id="Integration" transform="translate(254 -972)">
+		<g id="Content-7" transform="translate(0 -8)">
+			<g id="Rectangle_180" transform="translate(-80.311 1596.23)">
+				<rect x="18.2" y="23.8" class="st-0" width="27.8" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="23.8" height="12.2"/>
+			</g>
+			<g id="Rectangle_181" transform="translate(-138.932 1609.343)">
+				<rect x="18.2" y="23.8" class="st-0" width="146.6" height="49.4"/>
+				<rect x="20.2" y="25.8" class="st-1" width="142.6" height="45.4"/>
+			</g>
+			<g id="Rectangle_182" transform="translate(-134.478 1655.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<g id="Rectangle_183" transform="translate(-94.803 1655.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<text transform="matrix(1 0 0 1 -92.885 1663.8657)" class="st-4 st-5 st-19">Integration</text>
+			<g id="Rectangle_184" transform="translate(-54.803 1655.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<g id="Rectangle_185" transform="translate(-14.803 1655.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<line id="Line_444" class="st-7" x1="-60.8" y1="1607.8" x2="-47.8" y2="1620.8"/>
+			<line id="Line_445" class="st-7" x1="-28.8" y1="1693.8" x2="-28.8" y2="1774.8"/>
+			<line id="Line_446" class="st-7" x1="13.2" y1="1816.8" x2="-28.8" y2="1774.8"/>
+			<line id="Line_447" class="st-7" x1="-68.8" y1="1693.8" x2="-68.8" y2="1774.8"/>
+			<line id="Line_448" class="st-7" x1="-110.8" y1="1816.8" x2="-68.8" y2="1774.8"/>
+			<line id="Line_449" class="st-7" x1="-107.8" y1="1693.8" x2="-107.8" y2="1743.8"/>
+			<line id="Line_450" class="st-7" x1="-120.8" y1="1756.8" x2="-107.8" y2="1743.8"/>
+			<line id="Line_451" class="st-7" x1="11.2" y1="1693.8" x2="11.2" y2="1743.8"/>
+			<line id="Line_452" class="st-7" x1="26.2" y1="1758.8" x2="11.2" y2="1743.8"/>
+			<g id="IBM_Ace" transform="translate(-1255 1641)">
+				<g id="IBM_Ace_Logo" transform="translate(1038 58)">
+					<circle id="Background" class="st-51" cx="52.2" cy="57.8" r="34"/>
+					<path id="Line-21" class="st-52" d="M52,44l18.1,17"/>
+					<path id="Fill-78" class="st-2" d="M62.1,61c0.1,4.5,3.8,8.2,8.4,8.1c4.5-0.1,8.2-3.8,8.1-8.4c-0.1-4.5-3.7-8.1-8.2-8.1
+						C65.7,52.7,62,56.4,62.1,61"/>
+					<path id="Line-20" class="st-52" d="M50.6,42.1l-10,30.6"/>
+					<path id="Fill-78-2" class="st-2" d="M38.7,42.4c0.1,6.8,5.7,12.3,12.5,12.3s12.3-5.7,12.3-12.5c-0.1-6.8-5.6-12.3-12.4-12.3
+						C44.2,29.9,38.6,35.5,38.7,42.4"/>
+					<path id="Fill-78-3" class="st-2" d="M30.3,73c0.1,5.6,4.7,10.1,10.3,10s10.1-4.7,10-10.3c-0.1-5.6-4.6-10-10.2-10
+						C34.8,62.7,30.3,67.3,30.3,73"/>
+					<path id="Fill-78-4" class="st-52" d="M42.3,42.5c0.1,4.8,4,8.6,8.8,8.5c4.8-0.1,8.6-4,8.5-8.8c-0.1-4.7-3.9-8.5-8.6-8.5
+						C46.1,33.8,42.3,37.7,42.3,42.5C42.3,42.5,42.3,42.5,42.3,42.5"/>
+					<path id="Fill-76" class="st-53" d="M66,60.9c0-2.4,1.9-4.3,4.3-4.3c2.4,0,4.3,1.9,4.3,4.3c0,2.4-1.9,4.3-4.3,4.3
+						S66,63.3,66,60.9C66,60.9,66,60.9,66,60.9z"/>
+					<path id="Fill-78-5" class="st-52" d="M34.8,72.8c0,3.3,2.7,6,6,6s6-2.7,6-6s-2.7-6-6-6h0C37.5,66.9,34.8,69.5,34.8,72.8"/>
+					<path id="Fill-80" class="st-53" d="M46.2,42.4c0,2.6,2.1,4.7,4.7,4.7s4.7-2.1,4.7-4.7c0-2.6-2.1-4.7-4.7-4.7
+						S46.2,39.7,46.2,42.4L46.2,42.4"/>
+				</g>
+				<g id="Rectangle_178-2" transform="translate(1116 136) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="Node_JS" transform="translate(-1102 1770)">
+				<g id="Node_JS_Logo" transform="translate(1122.27 -72.974)">
+					<g id="Group_29" transform="translate(0 0)">
+						<path id="Path_177" class="st-54" d="M79.1,78.9c1.3-0.8,2-2.2,2.1-3.7V43.7c-0.1-1.5-0.9-2.9-2.1-3.7L51.8,24.3
+							c-1.3-0.7-2.9-0.7-4.2,0L20.3,40.1c-1.3,0.8-2,2.2-2.1,3.7v31.5c0.1,1.5,0.9,2.9,2.1,3.7l27.3,15.8c1.3,0.7,2.9,0.7,4.2,0
+							L79.1,78.9z"/>
+					</g>
+					<g id="XMLID_1_" transform="translate(3.626 18.589)">
+						<path id="XMLID_2_" class="st-55" d="M45.8,58c-0.2,0-0.4,0-0.5-0.1l-1.7-1c-0.2-0.1-0.1-0.2,0-0.2c0.3-0.1,0.5-0.2,0.8-0.4
+							c0,0,0.1,0,0.1,0l1.3,0.8c0,0,0.1,0,0.2,0l5-2.9c0,0,0.1-0.1,0.1-0.1v-5.8c0-0.1,0-0.1-0.1-0.1l-5-2.9c0,0-0.1,0-0.2,0l-5,2.9
+							c0,0-0.1,0.1-0.1,0.1v5.8c0,0.1,0,0.1,0.1,0.1L42,55c0.8,0.4,1.2-0.1,1.2-0.5v-5.8c0-0.1,0.1-0.1,0.1-0.1c0,0,0,0,0,0H44
+							c0.1,0,0.1,0.1,0.1,0.1c0,0,0,0,0,0v5.8c0.1,0.8-0.5,1.5-1.2,1.6c-0.1,0-0.2,0-0.3,0c-0.4,0-0.8-0.1-1.2-0.3L40.2,55
+							c-0.3-0.2-0.5-0.5-0.5-0.9v-5.8c0-0.4,0.2-0.7,0.5-0.9l5-2.9c0.3-0.2,0.7-0.2,1.1,0l5,2.9c0.3,0.2,0.5,0.5,0.5,0.9V54
+							c0,0.4-0.2,0.7-0.5,0.9l-5,2.9C46.1,58,45.9,58,45.8,58"/>
+						<path id="XMLID_3_" class="st-55" d="M47.3,54c-2.2,0-2.7-1-2.7-1.9c0-0.1,0.1-0.1,0.1-0.1c0,0,0,0,0,0h0.7
+							c0.1,0,0.1,0,0.1,0.1c0,0,0,0,0,0c0.1,0.7,0.4,1,1.7,1c1.1,0,1.5-0.2,1.5-0.8c0-0.3-0.1-0.6-1.8-0.7c-1.4-0.1-2.2-0.4-2.2-1.5
+							c0-1,0.9-1.6,2.3-1.6c1.6,0,2.4,0.6,2.5,1.8c0,0.1-0.1,0.2-0.2,0.2h-0.7c-0.1,0-0.1,0-0.1-0.1c-0.2-0.7-0.5-0.9-1.6-0.9
+							c-1.2,0-1.3,0.4-1.3,0.7c0,0.4,0.2,0.5,1.7,0.7c1.5,0.2,2.3,0.5,2.3,1.6S48.9,54,47.3,54 M53.5,47.8h0.2c0.1,0,0.2,0,0.2-0.1
+							c0,0,0,0,0,0c0-0.2-0.1-0.2-0.2-0.2h-0.2L53.5,47.8z M53.2,47.4h0.4c0.1,0,0.4,0,0.4,0.3c0,0.1-0.1,0.2-0.2,0.3
+							c0.2,0,0.2,0.1,0.2,0.2c0,0.1,0,0.2,0.1,0.3h-0.2c0,0,0-0.3,0-0.3c0-0.1,0-0.1-0.1-0.1h-0.2v0.4h-0.2L53.2,47.4L53.2,47.4z
+							 M52.8,47.9c0,0.4,0.4,0.8,0.8,0.8c0.4,0,0.8-0.4,0.8-0.8c0-0.4-0.4-0.8-0.8-0.8C53.2,47.1,52.8,47.5,52.8,47.9
+							C52.8,47.9,52.8,47.9,52.8,47.9 M54.6,47.9c0,0.5-0.4,1-1,1c-0.5,0-1-0.4-1-1s0.4-1,1-1C54.1,46.9,54.6,47.4,54.6,47.9"/>
+						<path id="XMLID_9_" class="st-56" d="M30.1,35.2c0-0.2-0.1-0.4-0.3-0.6l-5.3-3.1c-0.1,0-0.2-0.1-0.3-0.1h-0.1
+							c-0.1,0-0.2,0-0.3,0.1l-5.3,3.1c-0.2,0.1-0.3,0.3-0.3,0.6l0,8.3c0,0.2,0.1,0.3,0.3,0.3c0.1,0,0.1,0,0.2,0l3.2-1.8
+							c0.2-0.1,0.3-0.3,0.3-0.6v-3.9c0-0.2,0.1-0.4,0.3-0.6l1.3-0.8c0.1-0.1,0.2-0.1,0.3-0.1c0.1,0,0.2,0,0.3,0.1l1.3,0.8
+							c0.2,0.1,0.3,0.3,0.3,0.6v3.9c0,0.2,0.1,0.4,0.3,0.6l3.2,1.8c0.1,0.1,0.2,0.1,0.3,0c0.1-0.1,0.1-0.2,0.2-0.3L30.1,35.2z
+							 M55.4,39.6c0,0.1,0,0.1-0.1,0.1l-1.8,1.1c-0.1,0-0.1,0-0.2,0l-1.8-1.1c0,0-0.1-0.1-0.1-0.1v-2.1c0-0.1,0-0.1,0.1-0.1l1.8-1.1
+							c0.1,0,0.1,0,0.2,0l1.8,1.1c0,0,0.1,0.1,0.1,0.1V39.6z M55.9,23.9c-0.1-0.1-0.2-0.1-0.3,0c-0.1,0.1-0.1,0.2-0.2,0.3v8.2
+							c0,0.1,0,0.2-0.1,0.2c-0.1,0-0.2,0-0.2,0l-1.3-0.8c-0.2-0.1-0.4-0.1-0.6,0l-5.4,3.1c-0.2,0.1-0.3,0.3-0.3,0.6v6.2
+							c0,0.2,0.1,0.4,0.3,0.6l5.4,3.1c0.2,0.1,0.4,0.1,0.6,0l5.4-3.1c0.2-0.1,0.3-0.3,0.3-0.6V26.2c0-0.2-0.1-0.5-0.3-0.6L55.9,23.9
+							z M73.7,37.4c0.2-0.1,0.3-0.3,0.3-0.6v-1.5c0-0.2-0.1-0.4-0.3-0.6l-5.3-3.1c-0.2-0.1-0.4-0.1-0.6,0l-5.4,3.1
+							c-0.2,0.1-0.3,0.3-0.3,0.6v6.2c0,0.2,0.1,0.4,0.3,0.6l5.3,3c0.2,0.1,0.4,0.1,0.6,0l3.2-1.8c0.1-0.1,0.2-0.2,0.2-0.3
+							c0-0.1-0.1-0.2-0.2-0.3l-5.4-3.1C66,39.6,66,39.5,66,39.4v-1.9c0-0.1,0.1-0.2,0.2-0.3l1.7-1c0.1-0.1,0.2-0.1,0.3,0l1.7,1
+							c0.1,0.1,0.2,0.2,0.2,0.3V39c0,0.1,0.1,0.2,0.2,0.3c0.1,0.1,0.2,0.1,0.3,0L73.7,37.4z"/>
+						<path id="XMLID_14_" class="st-55" d="M68,37.1c0,0,0.1,0,0.1,0l1,0.6c0,0,0.1,0.1,0.1,0.1V39c0,0,0,0.1-0.1,0.1l-1,0.6
+							c0,0-0.1,0-0.1,0l-1-0.6c0,0-0.1-0.1-0.1-0.1v-1.2c0,0,0-0.1,0.1-0.1L68,37.1z"/>
+						<g id="XMLID_15_" transform="translate(14.626 7.818)">
+							<g id="Group_32">
+								<g id="Group_31">
+									<g>
+										<defs>
+											<path id="SVGID_11_" d="M23.8,23.9L18.5,27c-0.2,0.1-0.3,0.3-0.3,0.6v6.2c0,0.2,0.1,0.4,0.3,0.6l5.3,3.1
+												c0.2,0.1,0.4,0.1,0.6,0l5.3-3.1c0.2-0.1,0.3-0.3,0.3-0.6v-6.2c0-0.2-0.1-0.4-0.3-0.6l-5.3-3.1
+												C24.3,23.8,24,23.8,23.8,23.9"/>
+										</defs>
+										<clipPath id="SVGID_12_">
+											<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+										</clipPath>
+										<g id="Group_30" class="st-57">
+											
+												<linearGradient id="Path_178_1_" gradientUnits="userSpaceOnUse" x1="-644.0114" y1="1852.0947" x2="-644.0074" y2="1852.0947" gradientTransform="matrix(22.673 0 0 -23.026 14462.6328 42676.9492)">
+												<stop  offset="0" style="stop-color:#3E863D"/>
+												<stop  offset="0.3" style="stop-color:#3E863D"/>
+												<stop  offset="0.5" style="stop-color:#55934F"/>
+												<stop  offset="0.8" style="stop-color:#5AAD45"/>
+												<stop  offset="1" style="stop-color:#5AAD45"/>
+											</linearGradient>
+											<path id="Path_178" class="st-58" d="M35.5,26.4l-15-7.3l-7.7,15.7l15,7.3L35.5,26.4z"/>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g id="XMLID_17_" transform="translate(14.764 7.849)">
+							<g id="Group_35">
+								<g id="Group_34">
+									<g>
+										<defs>
+											<path id="SVGID_13_" d="M18.2,34c0,0.1,0.1,0.1,0.2,0.2l4.6,2.6l0.8,0.4c0.1,0.1,0.2,0.1,0.4,0.1c0,0,0.1,0,0.1,0
+												l5.6-10.3c0,0-0.1-0.1-0.2-0.1l-3.5-2l-1.8-1.1c-0.1,0-0.1,0-0.2-0.1L18.2,34z"/>
+										</defs>
+										<clipPath id="SVGID_14_">
+											<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+										</clipPath>
+										<g id="Group_33" class="st-59">
+											
+												<linearGradient id="Path_180_1_" gradientUnits="userSpaceOnUse" x1="-643.9616" y1="1849.6476" x2="-643.9576" y2="1849.6476" gradientTransform="matrix(24.572 0 0 -24.663 15684.7441 45648.4297)">
+												<stop  offset="0" style="stop-color:#3E863D"/>
+												<stop  offset="0.57" style="stop-color:#3E863D"/>
+												<stop  offset="0.72" style="stop-color:#619857"/>
+												<stop  offset="1" style="stop-color:#76AC64"/>
+											</linearGradient>
+											<path id="Path_180" class="st-60" d="M11.7,28.6l10.6,14.3l14-10.3L25.7,18.2L11.7,28.6z"/>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g id="XMLID_19_" transform="translate(14.963 7.818)">
+							<g id="Group_38">
+								<g id="Group_37">
+									<g>
+										<defs>
+											<path id="SVGID_15_" d="M23.7,23.8c-0.1,0-0.2,0-0.3,0.1l-5.3,3.1l5.7,10.4c0.1,0,0.2,0,0.2-0.1l5.3-3.1
+												c0.2-0.1,0.3-0.3,0.3-0.4l-5.8-9.9C23.9,23.8,23.8,23.8,23.7,23.8L23.7,23.8"/>
+										</defs>
+										<clipPath id="SVGID_16_">
+											<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
+										</clipPath>
+										<g id="Group_36" class="st-61">
+											
+												<linearGradient id="Rectangle_146_1_" gradientUnits="userSpaceOnUse" x1="-646.3387" y1="1877.5289" x2="-646.3297" y2="1877.5289" gradientTransform="matrix(11.566 0 0 -13.555 7337.333 25480.4961)">
+												<stop  offset="0" style="stop-color:#6BBF47"/>
+												<stop  offset="0.16" style="stop-color:#6BBF47"/>
+												<stop  offset="0.38" style="stop-color:#79B461"/>
+												<stop  offset="0.47" style="stop-color:#75AC64"/>
+												<stop  offset="0.7" style="stop-color:#659E5A"/>
+												<stop  offset="0.9" style="stop-color:#3E863D"/>
+												<stop  offset="1" style="stop-color:#3E863D"/>
+											</linearGradient>
+											<rect id="Rectangle_146" x="18.2" y="23.8" class="st-62" width="11.6" height="13.6"/>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="Rectangle_188" transform="translate(1198 7) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="Mulesoft" transform="translate(-1294.656 1598.329)">
+				<g id="Mulesoft_Logo" transform="translate(1254.891 203.419)">
+					<g id="Group_3" transform="translate(0 0)">
+						<g id="Group_2">
+							<path id="Path_47" class="st-63" d="M52.7,89.9c-17.4,0-31.5-14.1-31.5-31.5s14.1-31.5,31.5-31.5c17.4,0,31.5,14.1,31.5,31.5
+								C84.3,75.8,70.2,89.9,52.7,89.9C52.8,89.9,52.8,89.9,52.7,89.9z M52.7,23.8c-19,0.1-34.3,15.5-34.2,34.5S34,92.7,53,92.6
+								c18.9-0.1,34.2-15.5,34.2-34.4C87.2,39.2,71.7,23.8,52.7,23.8z"/>
+						</g>
+					</g>
+					<path id="Path_48" class="st-63" d="M43.2,70.1c-5.7-1.8-9.6-5.7-9.6-10.3c0.1-2.5,1.1-4.8,3-6.5l12.4,12.2h7.5l12.4-12.2
+						c1.8,1.7,2.9,4,3,6.5c0,4.3-3.4,8-8.5,10l2.4,6C74.8,72.6,81,66.4,81,59.2c0-6.8-5.6-12.8-13.9-16L52.7,57.8L38.4,43.1
+						c-8.4,3.2-14,9.2-14,16.1c0,7.5,6.7,13.9,16.3,16.9L43.2,70.1L43.2,70.1z"/>
+				</g>
+				<g id="Rectangle_187" transform="translate(1333.656 281.671) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="Spring_Boot" transform="translate(-1291 1612)">
+				<path id="Spring_Boot_Logo" class="st-64" d="M1208.7,262.2c-8,10.5-24.8,7.1-35.8,7.6c0,0-1.9,0.1-3.9,0.4c0,0,0.7-0.3,1.6-0.6
+					c7.7-2.7,11.2-3.2,15.8-5.5c8.7-4.5,17.4-14.2,19.1-24.3c-3.3,9.7-13.4,18.1-22.6,21.5c-6.1,2.2-17.5,4.5-17.5,4.5l-0.4-0.2
+					c-7.8-3.8-8-20.5,6.1-25.9c6.1-2.4,12.1-1,18.7-2.7c7.1-1.7,15.3-7.1,18.7-14C1212.2,234,1216.7,251.4,1208.7,262.2z
+					 M1208.9,219.5c-0.9,2.2-2.1,4.2-3.5,6c-12.4-12.7-32.8-13-45.5-0.6s-13,32.8-0.6,45.5c0.4,0.4,0.8,0.8,1.2,1.2l0.7,0.6
+					c-1.2-1-1.4-2.7-0.4-3.9s2.7-1.4,3.9-0.4c1.2,1,1.4,2.7,0.4,3.9c-0.5,0.6-1.1,0.9-1.8,1c-0.7,0.1-1.5-0.1-2-0.6l0.5,0.4
+					c13.6,11.4,33.8,9.7,45.3-3.8c4.4-5.2,7-11.7,7.5-18.4C1215.3,242.2,1213,231.8,1208.9,219.5"/>
+				<g id="Rectangle_186" transform="translate(1208 268) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+		</g>
+		<g id="Lines-8" transform="translate(-301.32 1754.938)">
+			<line id="Line_355" class="st-7" x1="83.5" y1="-465.1" x2="166.5" y2="-548.1"/>
+			<line id="Line_357" class="st-7" x1="158.5" y1="-155.1" x2="83.5" y2="-230.1"/>
+			<line id="Line_360" class="st-7" x1="158.5" y1="-155.1" x2="240.5" y2="-155.1"/>
+			<g id="Ellipse_67" transform="translate(96.202 -432.668) rotate(180)">
+				<circle class="st-0" cx="-11.2" cy="-16.8" r="7"/>
+				<circle class="st-1" cx="-11.2" cy="-16.8" r="5"/>
+			</g>
+			<line id="Line_391" class="st-7" x1="107.5" y1="-472.1" x2="107.5" y2="-422.1"/>
+			<line id="Line_392" class="st-7" x1="107.5" y1="-472.1" x2="125.5" y2="-490.1"/>
+			<line id="Line_393" class="st-7" x1="125.5" y1="-507.1" x2="125.5" y2="-490.1"/>
+		</g>
+	</g>
+	<g id="eCommerce_Platform" transform="translate(0 135)">
+		<g id="Content-8" transform="translate(0 -1716)">
+			<g id="Rectangle_189" transform="translate(173.689 1914.23)">
+				<rect x="18.2" y="23.8" class="st-0" width="27.8" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="23.8" height="12.2"/>
+			</g>
+			<g id="Rectangle_190" transform="translate(115.068 1927.343)">
+				<rect x="18.2" y="23.8" class="st-0" width="146.6" height="53"/>
+				<rect x="20.2" y="25.8" class="st-1" width="142.6" height="49"/>
+			</g>
+			<g id="Rectangle_191" transform="translate(139.522 1976.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<g id="Rectangle_192" transform="translate(179.197 1976.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<text transform="matrix(1 0 0 1 159.158 1973.866)" class="st-4 st-5 st-19">eCommerce</text>
+			<text transform="matrix(1 0 0 1 171.195 1993.866)" class="st-4 st-5 st-19">Platform</text>
+			<g id="Rectangle_193" transform="translate(219.197 1976.622)">
+				<rect x="18.2" y="23.8" class="st-0" width="16.2" height="16.2"/>
+				<rect x="20.2" y="25.8" class="st-1" width="12.2" height="12.2"/>
+			</g>
+			<line id="Line_457" class="st-7" x1="246.2" y1="2014.8" x2="246.2" y2="2031.8"/>
+			<line id="Line_458" class="st-7" x1="166.2" y1="2014.8" x2="166.2" y2="2031.8"/>
+			<line id="Line_459" class="st-7" x1="206.2" y1="2014.8" x2="206.2" y2="2105.8"/>
+			<line id="Line_462" class="st-7" x1="153.2" y1="2044.8" x2="166.2" y2="2031.8"/>
+			<line id="Line_463" class="st-7" x1="153.2" y1="2044.8" x2="116.2" y2="2044.8"/>
+			<line id="Line_464" class="st-7" x1="105.2" y1="2055.8" x2="116.2" y2="2044.8"/>
+			<line id="Line_465" class="st-7" x1="259.2" y1="2044.8" x2="246.2" y2="2031.8"/>
+			<line id="Line_466" class="st-7" x1="259.2" y1="2044.8" x2="296.2" y2="2044.8"/>
+			<line id="Line_467" class="st-7" x1="307.2" y1="2055.8" x2="296.2" y2="2044.8"/>
+			<g id="Big_Commerce" transform="translate(-334.401 1858.387)">
+				<g id="BigCommerce_Logo" transform="translate(488.563 233.5)">
+					<path id="Path_3" class="st-4" d="M55.6,61.3H62c1.8,0,3-1,3-2.6c0-1.5-1.2-2.6-2.7-2.6c-0.1,0-0.2,0-0.3,0h-6.4
+						c-0.2,0-0.4,0.2-0.4,0.4v4.5C55.2,61.1,55.4,61.3,55.6,61.3z"/>
+					<path id="Path_4" class="st-4" d="M55.7,75.4h6.6c2,0,3.2-1,3.2-2.8c0-1.6-1.1-2.8-3.2-2.8h-6.6c-0.2,0-0.4,0.2-0.4,0.4V75
+						C55.4,75.2,55.5,75.4,55.7,75.4z"/>
+					<path id="Path_5" class="st-4" d="M84.7,24L59.6,49h4.1c6.4,0,10.2,4,10.2,8.4c-0.1,3.1-2,5.9-4.8,7.1c-0.2,0.1-0.4,0.4-0.3,0.6
+						c0.1,0.1,0.2,0.2,0.3,0.3c3.1,1.3,5,4.4,5,7.7c0,5-3.3,9-9.8,9H46.4c-0.3,0-0.5-0.2-0.5-0.5v-19L18.3,90.1
+						c-0.2,0.2-0.2,0.6,0,0.8c0.1,0.1,0.3,0.2,0.4,0.2H85c0.2,0,0.4-0.2,0.4-0.4V24.3C85.6,23.9,85,23.6,84.7,24z"/>
+				</g>
+				<g id="Rectangle_195" transform="translate(566.401 311.613) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="Commerce_Tools" transform="translate(-421 1963)">
+				<g id="Commerce_Tools_Logo" transform="translate(476.299 76.471)">
+					<path id="Path_82" class="st-65" d="M19.1,79.4c-0.5,0.3-0.8,0.8-0.8,1.3c0,0.6,0.3,1.1,0.8,1.3l29.5,13.8
+						c0.4,0.2,0.8,0.3,1.3,0.3V65.4c-0.4,0-0.9,0.1-1.3,0.3L19.1,79.4z"/>
+					<path id="Path_83" class="st-66" d="M49.8,65.4v30.7c0.5,0,0.9-0.1,1.3-0.3l29.4-13.7c0.5-0.3,0.8-0.8,0.8-1.3
+						c0-0.6-0.3-1.1-0.8-1.3L51.1,65.8C50.7,65.5,50.2,65.4,49.8,65.4"/>
+					<path id="Path_84" class="st-67" d="M18.2,39.1c0,0.6,0.3,1.1,0.8,1.3l29.5,13.8c0.4,0.2,0.8,0.3,1.3,0.3c0.4,0,0.7-0.1,1.1-0.2
+						c0.3-0.2,0.3-0.1,0.8-0.4c3-1.4,1-0.5,28.8-13.5c0.5-0.3,0.8-0.8,0.8-1.3c0-0.6-0.3-1.1-0.8-1.3L51.1,24.1
+						c-0.8-0.3-1.7-0.3-2.5,0L19.2,37.7C18.6,37.9,18.2,38.5,18.2,39.1"/>
+					<path id="Path_85" class="st-68" d="M49.8,56.3v9.2c-0.4,0-0.9,0.1-1.3,0.3L19.1,79.4c-0.5,0.3-0.8,0.8-0.8,1.3V39.1
+						c0,0.6,0.3,1.1,0.8,1.3l29.5,13.8c0.4,0.2,0.8,0.3,1.3,0.3c0.4,0,0.7-0.1,1.1-0.2h-0.1C49.9,54.8,49.8,55.2,49.8,56.3"/>
+				</g>
+				<g id="Rectangle_194" transform="translate(552 157) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+			<g id="HCL_Commerce" transform="translate(-402.053 1983.444)">
+				<g id="HCL_Commerce_Logo" transform="translate(657.063 59.69)">
+					<rect id="Rectangle_144" x="20.7" y="26.3" class="st-33" width="61" height="61"/>
+					
+						<linearGradient id="Path_158_1_" gradientUnits="userSpaceOnUse" x1="-603.1091" y1="2109.6843" x2="-602.1091" y2="2109.6843" gradientTransform="matrix(66.039 0 0 -66.039 39846.8945 139378.2812)">
+						<stop  offset="0" style="stop-color:#D694F9"/>
+						<stop  offset="0.48" style="stop-color:#D893F8"/>
+						<stop  offset="0.69" style="stop-color:#E08FF4"/>
+						<stop  offset="0.86" style="stop-color:#EC88EE"/>
+						<stop  offset="1" style="stop-color:#FE7DE5"/>
+						<stop  offset="1" style="stop-color:#FF7DE5"/>
+					</linearGradient>
+					<path id="Path_158" class="st-69" d="M81.7,26.3v61h-61v-61H81.7 M81.7,23.8h-61c-1.4,0-2.5,1.1-2.5,2.5c0,0,0,0,0,0v61
+						c0,1.4,1.1,2.5,2.5,2.5c0,0,0,0,0,0h61c1.4,0,2.5-1.1,2.5-2.5v0v-61C84.2,24.9,83.1,23.8,81.7,23.8
+						C81.7,23.8,81.7,23.8,81.7,23.8z"/>
+					<path id="Path_159" class="st-36" d="M39,60.8L28.7,48.9l-4.8,10.7L34,71.9h31.2l5-11.1H39z"/>
+					
+						<linearGradient id="Path_160_1_" gradientUnits="userSpaceOnUse" x1="-601.6831" y1="2172.5928" x2="-600.6831" y2="2172.5928" gradientTransform="matrix(36.189 0 0 -11.087 21817.5742 24133.3633)">
+						<stop  offset="0.37" style="stop-color:#D694F9"/>
+						<stop  offset="0.67" style="stop-color:#F583EA"/>
+						<stop  offset="0.75" style="stop-color:#FF7DE5"/>
+					</linearGradient>
+					<path id="Path_160" class="st-70" d="M79.5,40.3l-5,11.1H43.3l5-11.1H79.5z"/>
+				</g>
+				<g id="Rectangle_196" transform="translate(734.053 136.556) rotate(180)">
+					<rect x="-18.2" y="-23.8" class="st-0" width="88" height="88"/>
+					<rect x="-16.2" y="-21.8" class="st-1" width="84" height="84"/>
+				</g>
+			</g>
+		</g>
+		<g id="Lines-9" transform="translate(336.053 396.462) rotate(180)">
+			<line id="Line_320" class="st-7" x1="178.4" y1="222.1" x2="129.4" y2="173.1"/>
+			<line id="Line_333" class="st-7" x1="178.4" y1="204.1" x2="169.4" y2="195.1"/>
+			<g id="Ellipse_66" transform="translate(174.083 214.39) rotate(-45)">
+				<circle class="st-0" cx="11" cy="-22.7" r="7"/>
+				<circle class="st-1" cx="11" cy="-22.7" r="5"/>
+			</g>
+			<line id="Line_353" class="st-7" x1="178.9" y1="242.6" x2="170.9" y2="250.6"/>
+			<line id="Line_354" class="st-7" x1="178.9" y1="242.6" x2="178.9" y2="204.6"/>
+		</g>
+	</g>
+</g>
+</svg>
