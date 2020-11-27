@@ -92,11 +92,11 @@
     }
 
     .phase1-is-active {
-        animation: map 0.8s 0.1s forwards;
+        animation: map 0.8s 0.2s forwards;
     }
 
     .phase2-is-active {
-        animation: map 1s 0.3s forwards;
+        animation: map 0.8s 0.3s forwards;
     }
 
     .phase3-is-active {
